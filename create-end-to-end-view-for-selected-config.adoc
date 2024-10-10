@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: create-end-to-end-view-for-selected-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Interoperability Matrix Toolでは、構成と互換性のある関連ソリューションを選択して、特定の構成についてエンドツーエンドのビューを作成できます。 
+---
+= 選択した構成のエンドツーエンドビューを作成する
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Interoperability Matrix Toolでは、構成と互換性のある関連ソリューションを選択して、特定の構成についてエンドツーエンドのビューを作成できます。*Results*ページの* Build End to End View with *機能を使用して、構成のエンドツーエンドビューを作成できます。
+
+
+
+== タスクの内容
+
+特定の構成のエンドツーエンドビューは、* Results *ページからのみ作成できます。
+
+
+
+== 手順
+
+. 特定の構成の*Results*ページで、* Build End to End View with *ドロップダウンをクリックします。
+. ドロップダウンリストから、その特定の構成と互換性があるとリストされている必要なソリューションを選択します。特定の構成と互換性のないソリューションはグレー表示されます。
+. IMTの*結果*ページに、変更された構成を示す新しいタブが表示されます。要件に応じて、* Build End to End View with *機能を使用して追加のソリューションを含めるか、構成をエクスポートするかを選択できます。
+

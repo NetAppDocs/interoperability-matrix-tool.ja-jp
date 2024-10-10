@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: working-with-search-text-box.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified 
+summary: 検索テキストボックスを使用して、コンポーネント、ソリューション、カテゴリ、および構成を検索できます。入力したテキストに応じて、検索テキストボックスに検索条件に含めることができる一致候補が表示されます。 
+---
+= 検索テキストボックスの操作
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+検索テキストボックスを使用して、コンポーネント、ソリューション、カテゴリ、および構成を検索できます。入力したテキストに応じて、検索テキストボックスに検索条件に含めることができる一致候補が表示されます。

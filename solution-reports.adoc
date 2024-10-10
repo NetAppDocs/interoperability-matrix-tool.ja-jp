@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: solution-reports.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, component, EOVS, Summary 
+summary: ExcelまたはPDF版のソリューションレポートを表示およびダウンロードできます。 
+---
+= ソリューションレポート
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+ExcelまたはPDF版のソリューションレポートは、*[レポート]>[毎日のエクスポートの完了]*機能を使用して表示およびダウンロードできます。Excel版の* Component EOVS Summary *をダウンロードすることもできます。ここには、バージョンのサポートが終了したコンポーネントが一覧表示されています。

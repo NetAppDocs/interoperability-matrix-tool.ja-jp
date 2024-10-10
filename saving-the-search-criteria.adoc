@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: saving-the-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: '[Refine Search Criteria]ページでは、検索条件を保存または更新して、後で取得することができます。' 
+---
+= 検索条件を保存する
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+[*Refine Search Criteria*]ページでは、検索条件を保存または更新して後で取得することができます。
+
+
+
+== 開始する前に
+
+後で参照できるように条件を保存するには、最初のページでソリューションと構成要素を追加しておく必要があります。
+
+.手順
+. [Refine Search Criteria]ページの*[Save Criteria]*をクリックします。
+. [基準名]*を入力し、*[説明]*フィールドに情報を追加します。[条件名]*には英数字を使用でき、最大20文字まで追加できます。[説明]フィールドには、最大100文字の英数字を入力できます。Interoperability Matrix Toolでは、保存条件に重複した名前を使用することはできません。*基準名*は必須です。
+. [条件の更新]*をクリックして、保存した条件の一部として含めるフィルタまたは条件を追加します。
+. [ 保存（ Save ） ] をクリックします。条件を保存すると、*条件の保存*リンクが*条件の更新*に変わります。最大10個の検索条件を保存できます。
+
+
+
+
+== 結果
+
+[検索の保存]*をクリックすると、*[検索条件の保存]*ポップアップが表示されます。[最近の検索]タブには、最近の検索結果が表示されます。
+
+最近保存された各検索は、タイムスタンプによって一意に識別されます。タイムスタンプをクリックすると、*検索条件の絞り込み*ページが表示されます。

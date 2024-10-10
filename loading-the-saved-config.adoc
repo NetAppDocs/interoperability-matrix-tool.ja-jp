@@ -1,0 +1,37 @@
+---
+sidebar: sidebar 
+permalink: loading-the-saved-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 以前に保存した設定は、ホームページからロードできます。保存されている構成のタグ名、説明、ソリューション名を表示できます。 
+---
+= 保存されている設定のロード
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+以前に保存した設定は、ホームページからロードできます。保存されている構成のタグ名、説明、ソリューション名を表示できます。
+
+
+
+== 開始する前に
+
+特定の設定に指定した名前を検索することで、特定の設定をロードできます。
+
+
+
+== タスクの内容
+
+設定をすでに保存している場合は、後でいつでもロードできます。
+
+
+
+== 手順
+
+. ホームページで* Saved Search *オプションをクリックして、保存した構成をロードします。
+. [保存済みの構成]タブで、[構成]をクリックします。
+. 保存されている構成の上にマウスを置くと、構成名が表示されます。
+. [Tag Name]*をクリックし、設定をロードします。
+. [詳細を表示]*リンクをクリックして、[結果]ページに移動します。
+

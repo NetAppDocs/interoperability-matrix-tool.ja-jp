@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-components.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: 選択した1つまたは複数のコンポーネントをサブスクライブできます。 
+---
+= コンポーネントにサブスクライブ
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+選択した1つまたは複数のコンポーネントをサブスクライブできます。
+
+
+
+== タスクの内容
+
+コンポーネントの表示名またはコンポーネントの状態が変更されると、電子メール通知が送信されます。
+
+
+
+== 手順
+
+. ヘッダーメニューの* Subscription *リンクをクリックします。
+. サブスクリプションウィンドウで、*コンポーネント*タブを選択します。
+. 選択したコンポーネントをサブスクライブするには、*属性が更新されました*オプションのチェックボックスをオンにします。
+. [頻度]フィールドで、*[即時]*または*[ダイジェスト]*を選択します。
++
+
+NOTE: デフォルトでは、*即時*が選択されています。
+
+. サブスクライブしたコンポーネントのサブスクリプションを取得するには、*サブスクライブ*をクリックします。
++
+
+NOTE: [リセット（Reset）]*をクリックすると、*[構成要素（Component）]*タブのすべての選択をクリアできます。
+
+

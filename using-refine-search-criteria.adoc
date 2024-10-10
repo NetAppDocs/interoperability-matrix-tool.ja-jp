@@ -1,0 +1,17 @@
+---
+sidebar: sidebar 
+permalink: using-refine-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified 
+summary: '[Refine Search Criteria]を使用すると、製品と互換性のある構成を検索できます。' 
+---
+= 絞り込み検索条件を使用
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+*検索条件の絞り込み*では、製品と互換性のある構成を検索できます。さまざまなカテゴリからコンポーネントを選択することで、製品に適した構成にする構成を絞り込むことができます。
+
+
+NOTE: キーワード* Rack *および* Blade *は、* 4.x *の構成要素でのみ表示されます。

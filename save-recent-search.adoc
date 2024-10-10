@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: interoperability-matrix-tool-overview.html 
+keywords: imt, interoperability, matrix, tool, 
+summary: 最近の検索を保存して、後で検索するための条件を保存できます。 
+---
+= 最近の検索の保存
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Welcome to the IMTページでは、最近の検索を保存して、後で検索するための条件を保存できます。
+
+.手順
+. [ソリューション検索]または[詳細検索]をクリックします。
+. 検索条件を選択します。
+. [Skip to Results]を選択するか、[Next]をクリックして検索条件を絞り込み、[View Supported Configurations（results）]ページに移動します。
+
+
+条件が自動的に保存されることを示すポップアップダイアログが表示されます。

@@ -1,0 +1,16 @@
+---
+sidebar: sidebar 
+permalink: working-with-search-assistant.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, search, assistant 
+summary: 検索アシスタントを使用すると、検索条件に応じて互換性のある構成を探索するための提案が提供されます。 
+---
+= 検索アシスタントの操作
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+*検索アシスタント*は、入力した検索条件に応じて、互換性のある構成を探索するための提案を提供します。検索アシスタント*セクションには、よく使用されるカテゴリが表示されます。このカテゴリから、検索条件に含める構成要素を選択できます。選択した構成要素に応じて、検索アシスタントに互換性のある構成要素とソリューションが表示されます。
+
+入力した検索条件が正しくなく、Interoperability Matrix Tool（IMT）で結果が見つからない場合、*検索アシスタント*に候補が表示されて検索条件を修正します。

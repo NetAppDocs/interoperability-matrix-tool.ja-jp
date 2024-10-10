@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-storage-solutions-categories-or-categories.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: サブスクリプションでは、1つまたは複数のストレージソリューション、カテゴリ、コンポーネントを選択できます。 
+---
+= ストレージソリューション、カテゴリ、またはコンポーネントのサブスクライブ
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+サブスクリプションでは、1つまたは複数のストレージソリューション、カテゴリ、コンポーネントを選択できます。
+
+[サブスクリプション]タブでは、次のサブスクリプションをサブスクライブできます。
+
+* ストレージソリューションのサブスクライブ
+* カテゴリへのサブスクライブ
+* コンポーネントへのサブスクライブ
+

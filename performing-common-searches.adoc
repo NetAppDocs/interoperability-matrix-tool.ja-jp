@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: performing-common-searches.html 
+keywords: interoperability matrix tool, ONTAP SAN Host Simplified, Active IQ Advisor 
+summary: Interoperability Matrix Tool（IMT）のホームページにあるカードを使用して、ONTAP SANホストの簡易検索、ソリューションの検索、リストと検索、高度な検索などの一般的な検索を実行します。 
+---
+= 一般的な検索の実行
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Interoperability Matrix Tool（IMT）のホームページにあるカードを使用して、* ONTAP SAN Host Simplified *、* Solution Search *、* List and Find *、* Advanced Search *などの一般的な検索を実行します。
+
+IMTを開くと、最も一般的な検索タイプがホームページに表示されます。
+
+* * ONTAP SANホストの簡易化*
+* *ソリューション検索*
+* *リストと検索*
+* *詳細検索*
+
+
+のホームページでは、を視聴したり開いたりする https://www.netapp.com/services/support/active-iq/#:~:text=NetApp%C2%AE%20Active%20IQ%C2%AE,availability%2C%20security%2C%20and%20performance["Active IQアドバイザー"]こともできます https://www.youtube.com/playlist?list=PLdXI3bZJEw7moxyCCpO4p4G-73NN6q4RH["トレーニングビデオ"]。

@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: defining-and-entering-the-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: コンポーネント、ソリューション、またはカテゴリの組み合わせを使用して、検索条件を定義できます。 
+---
+= 検索条件を定義して入力する
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+コンポーネント、ソリューション、またはカテゴリの組み合わせを使用して、検索条件を定義できます。Interoperability Matrix Toolでは、コンポーネント、ソリューション、カテゴリを追加して検索条件を入力できます。検索テキストボックス、ソリューションエクスプローラ、またはコンポーネントエクスプローラを使用して、検索条件を入力できます。

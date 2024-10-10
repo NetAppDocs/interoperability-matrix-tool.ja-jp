@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: add-config-names-to-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 検索テキストボックスを使用して、検索条件に構成名を追加できます。 
+---
+= 検索条件に構成名を追加する
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+検索テキストボックスを使用して、検索条件に構成名を追加できます。
+
+
+
+== 開始する前に
+
+互換性がある構成を検索するには、構成名の詳細が必要です。たとえば、20150316-114603946は構成名です。
+
+
+
+== 手順
+
+. 検索ボックスに、設定名を入力して一致する可能性がある項目を表示します。
+. [追加]*をクリックして、構成名を検索条件に含めます。
+

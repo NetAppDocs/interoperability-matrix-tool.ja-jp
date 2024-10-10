@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: unsubscribe-the-subscribed-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'これ以上の更新を受信する必要がある場合は、[Results]ページで構成のサブスクライブを解除できます。' 
+---
+= サブスクライブ済み設定のサブスクライブ解除
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+これ以上の更新を受信したい場合は、*結果*ページから構成の登録を解除できます。
+
+
+
+== 開始する前に
+
+*結果*ページから構成をサブスクライブしておく必要があります。
+
+設定のサブスクライブを解除するには
+
+* [結果]ページで、星印をクリックしてサブスクライブされた構成のサブスクライブを解除します。お気に入りリストから構成を削除すると、その構成は自動的に登録解除されます。
+

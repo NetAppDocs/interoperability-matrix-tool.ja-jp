@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: finding-the-compatibility-using-the-refine-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'Interoperability Matrix Tool（IMT）の[Refine Search Criteria]ページでは、製品と互換性がある構成を確認できます。' 
+---
+= 検索条件の絞り込みを使用して互換性を検索する
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Interoperability Matrix Tool（IMT）の*[Refine Search Criteria]*ページでは、製品と互換性がある構成を確認できます。製品と互換性のあるソリューション、コンポーネント、カテゴリ、または構成を検索できます。適切なコンポーネントを選択することで、要件に応じて構成結果を絞り込むことができます。
+
+
+
+== 互換性に関する警告
+
+IMTエンドユーザーアプリケーションの*検索条件の絞り込み*ページにあるコンポーネントのいずれかが相互に互換性がある場合は、互換性の警告メッセージが表示されます。互換性の警告は赤で強調表示され、ページの上部に表示されます。次のようなメッセージが表示されます。
+
+`Please note: you must go to the Results page (next step) to confirm valid configurations.`
+
+互換性の警告が表示された場合は、*サポートされている構成の表示*リンクをクリックして*サポートされている構成の表示*ページに移動します。

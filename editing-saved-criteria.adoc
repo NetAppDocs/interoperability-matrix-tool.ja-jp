@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: editing-saved-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 以前に保存した保存済みの検索条件を編集できます。 
+---
+= 保存した条件の編集
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+以前に保存した保存済みの検索条件を編集できます。保存した条件に新しい構成要素を追加したり、既存の保存した条件から構成要素を除去したりできます。
+
+
+
+== 開始する前に
+
+編集するには、保存した条件をロードする必要があります。
+
+
+
+== 手順
+
+. 保存した条件をロードし、[保存した条件]リンクをクリックします。
+. [Refine Search Criteria]*リンクをクリックします。保存した条件に対して条件を追加または削除できます。
+

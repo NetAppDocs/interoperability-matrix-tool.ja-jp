@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: interoperability-matrix-tool-search-workflow.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow 
+summary: Interoperability Matrix Toolの使用を開始する際には、ワークフローを使用して説明される一般的なユースケースを理解しておくことが重要です。 
+---
+= Interoperability Matrix Toolの検索ワークフロー
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Interoperability Matrix Toolの使用を開始する際には、ワークフローを使用して説明される一般的なユースケースを理解しておくことが重要です。

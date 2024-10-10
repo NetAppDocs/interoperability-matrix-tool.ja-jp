@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: export-config-results.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: エクスポート機能を使用して、*結果*ページから構成結果をエクスポートできます。 
+---
+= 構成結果のエクスポート
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+*エクスポート*機能を使用して、*結果*ページから構成結果をエクスポートできます。設定結果のエクスポートには、ストレージソリューションの詳細、検索条件、設定の詳細、および特定のアラートや追加情報が含まれます。構成結果をExcelスプレッドシートまたはPDFにエクスポートできます。
+
+
+
+== タスクの内容
+
+構成結果を含むExcelシートのファイル名形式はです `IMT_solutionshortname_timestamp.xls`。
+
+
+
+== 手順
+
+. 結果*ページの*エクスポート*ドロップダウンメニューから、現在のソリューションをエクスポートするか、構成のエンドツーエンドビューをエクスポートするかを選択できます。
+. 要件に応じて、*現在のソリューション*または*エンドツーエンドビュー*をクリックします。最大3000行までエクスポートできます。以前は、最大1000行までエクスポートできましたが、この制限は増加しました。フィルタを使用して結果を絞り込む必要があります。必要に応じて、* Complete Daily Export *機能を使用して完全な結果を取得できます。
+. ExcelスプレッドシートまたはPDFをローカルマシンに保存できます。
+

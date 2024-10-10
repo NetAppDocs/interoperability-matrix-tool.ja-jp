@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: understanding-and-using-imt-results.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Interoperability Matrix Toolでは、要件を満たす構成の結果を表示およびエクスポートできます。 
+---
+= Interoperability Matrix Toolの結果を理解して使用する
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Interoperability Matrix Toolでは、要件を満たす構成の結果を表示およびエクスポートできます。[結果]ページから、選択した構成と互換性のある関連ソリューションを選択することで、エンドツーエンドのビューを構築できます。また、* What If *機能を使用して、構成内のコンポーネントをアップグレードまたはダウングレードできます。

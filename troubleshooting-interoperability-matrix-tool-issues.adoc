@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: troubleshooting-interoperability-matrix-tool-issues.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Interoperability Matrix Toolの一般的な問題をいくつか確認しておく必要があります。 
+---
+= Interoperability Matrix Toolに関する問題のトラブルシューティング
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Interoperability Matrix Toolの一般的な問題をいくつか確認しておく必要があります。
+
+[cols="2*"]
+|===
+| 問題 | 回避策 
+
+
+| Interoperability Matrix Toolをロードできない | ブラウザキャッシュをクリアし、新しいブラウザを開いてIMTにログインする必要があります。 
+
+
+| Interoperability Matrix Toolが停止する | これはネットワークの問題である可能性があります。ブラウザを更新してください。 
+
+
+| PIが目的のソリューションを推測していない | *ソリューションカタログ*から適切なソリューションを選択するか、特定のコンポーネントを選択する必要があります。 
+
+
+| HBA構成の* Refine Search Criteria *で別のプロパティを選択できません | HBAコンポーネントのチェックを外し、プロパティを選択する必要があります。 
+
+
+| 日次レポート生成で404エラーが表示される | 毎日のcronジョブは22：00時間（太平洋標準時）に実行され、30分間はレポートを使用できません。 
+
+
+| Interoperability Matrix Toolへの初回ログイン時にログイン認証に失敗する | Interoperability Matrix Toolのログインクレデンシャルを同期する必要があります。 
+
+
+| 新しく追加されたコンポーネントは表示されません | 4時間待ちます。コンポーネントは自動的に更新されます。 
+|===

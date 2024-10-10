@@ -1,0 +1,16 @@
+---
+sidebar: sidebar 
+permalink: using-what-if.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, host, os 
+summary: 検索条件でサポートされている可能性のあるすべての構成を検索できます。 
+---
+= What Ifを使用
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+検索条件でサポートされている可能性のあるすべての構成を検索できます。What If *を使用して、選択した構成のコンポーネントをアップグレードまたはダウングレードし、互換性を調べることができます。
+
+目的の構成が見つからない場合は、*[フィードバック]*をクリックして問題を報告してください。詳細については、を参照してください xref:reporting-an-issue.adoc[問題の報告]。

@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: viewing-recent-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Welcome to the IMTページで、保存された検索条件をロードして最近の検索を表示できます。 
+---
+= 最近の検索条件の表示
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+[* Welcome to the IMT *]ページで、保存された検索条件をロードして最近の検索を表示できます。
+
+
+
+== 開始する前に
+
+最近の検索を保存しておく必要があります。
+
+
+
+== 手順
+
+. [保存済み検索]*をクリックします。
+. 最近保存した検索を表示するには、*[最近の検索]*タブを選択します。最近の検索結果が表示されます。
+. 保存されている特定の検索条件を表示するには、*検索条件*タブを選択します。保存した条件が表示されます。
+

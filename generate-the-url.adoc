@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: generate-the-url.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: '[Refine Search Criteria]ページでは、互換性のためのURLを生成できます。' 
+---
+= URLの生成
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+[*Refine Search Criteria*]ページでは、互換性のためのURLを生成できます。生成されたURLは他のツールに埋め込んだり、NetAppサポートサイトにアップロードしたり、Eメールで共有したりできます。生成されたURLは、ブラウザに直接アップロードできます。
+
+.手順
+. [検索条件の絞り込み]*ページで、結果を絞り込む構成要素を選択します。
+. [URLを生成]*をクリックします。
+. URL共有ウィンドウからURLをコピーします。
+. [OK]をクリックします。
+
+
+
+NOTE: 生成したURLを使用できます。URLには、検索条件に追加したコンポーネントとソリューションが表示されます。

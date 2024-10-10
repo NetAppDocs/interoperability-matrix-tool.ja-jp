@@ -1,0 +1,19 @@
+---
+sidebar: sidebar 
+permalink: working-with-results.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified 
+summary: OUでは、製品要件を満たす構成の結果を表示およびエクスポートできます。 
+---
+= 結果の操作
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+製品要件を満たす構成の結果を表示およびエクスポートできます。
+
+[結果]ページから、選択した構成と互換性のある関連ソリューションを選択することで、エンドツーエンドのビューを構築できます。
+
+
+NOTE: 予期した結果が表示されない場合は、フィルタをクリアします。

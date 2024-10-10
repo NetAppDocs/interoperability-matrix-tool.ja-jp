@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: apply-filters-to-categories.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: '[Refine Search Criteria]ページでは、さまざまなカテゴリからコンポーネントを選択してフィルタを適用できます。フィルタを適用することで、検索条件に構成要素を追加し、構成結果を絞り込むことができます。' 
+---
+= カテゴリへのフィルタの適用
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+[*検索条件の絞り込み*（Refine Search Criteria）]ページでは、さまざまなカテゴリからコンポーネントを選択してフィルタを適用できます。フィルタを適用することで、検索条件に構成要素を追加し、構成結果を絞り込むことができます。
+
+
+
+== 手順
+
+. 要件に応じて、*[検索条件の絞り込み]*ページの目的のカテゴリからコンポーネントを選択します。各カテゴリ内で、特定のコンポーネントを検索し、必要なコンポーネントを選択できます。
+. *オプション*：さまざまなカテゴリから複数のコンポーネントを選択して、構成結果を絞り込みます。
+
+
+選択したコンポーネントの互換性によっては、一部のコンポーネントがカテゴリ内で使用できない場合があります。

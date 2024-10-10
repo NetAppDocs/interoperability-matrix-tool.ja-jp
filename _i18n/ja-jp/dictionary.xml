@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="ec29b204bdfea025d0a04da9c1bd84d2" category="summary">検索テキストボックスまたは拡張検索を使用して、検索条件にコンポーネントを追加できます。</block>
+  <block id="3edf5099c530f4b5bf9fd5e0777eff7a" category="doc">検索条件にコンポーネントを追加</block>
+  <block id="e646fe8093cae076f04ace90c652382f" category="paragraph">検索テキストボックスまたは*拡張検索*を使用して、検索条件にコンポーネントを追加できます。</block>
+  <block id="bbe48fb854ea022537208eeeff822f91" category="paragraph-title">タスクの内容</block>
+  <block id="1b8078dfaa97a9198e88328fca0e31bf" category="paragraph">検索条件に追加するコンポーネントがわかっている場合は、検索テキストボックスにコンポーネント名を入力できます。検索条件に追加するコンポーネントがわからない場合は、*拡張検索*を使用できます。</block>
+  <block id="ebc1aa903a0a85396e12956f684427d2" category="paragraph">検索条件に含まれる構成部品をクリアするには、右上隅の*すべてクリア*をクリックします。</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">手順</block>
+  <block id="b13b1beb16e7b3bbe18ffc3110b849e6" category="list-text">Interoperability Matrix Toolのホームページで、検索テキストボックスにコンポーネント名を入力してコンポーネントに一致するコンポーネントを表示します。</block>
+  <block id="7359bee9ebd609ed80ffd27e90f987c2" category="list-text">[追加（Add）]*をクリックして、構成要素を検索条件に含めます。</block>
+  <block id="f444123f1ed5a79c79095c2a8283fa3b" category="list-text">複数のカテゴリのコンポーネントを検索条件に含めるには、*[追加]*をクリックします。</block>
+  <block id="a0906cb25d9e444b66df8499ea23ebc0" category="list-text">[すべての一致を表示]*をクリックすると、IMTは*[詳細検索]*を表示し、これを使用して検索条件にさらに多くのコンポーネントを含めることができます。</block>
+  <block id="7a30b55a4c862b36fb2093711f7a6f15" category="list-text">オプション。[拡張検索（Advanced Search）]*を使用して、構成要素を検索条件に含めることができます。</block>
+  <block id="08feac9cb5b89652b139e70810163d12" category="list-text">[詳細検索]*をクリックします。</block>
+  <block id="00186b1e3606607157e8569e3c14e11d" category="list-text">[詳細検索]ウィンドウで、左側のペインからカテゴリまたはソリューションを選択します。</block>
+  <block id="6150b2c40e2b2d0ed506f05a1aabf090" category="list-text">右側のペインで、検索条件に追加するコンポーネントを特定し、*[追加]*をクリックします。</block>
+  <block id="2d657e93aaa732cc222a1272267fe78f" category="list-text">[詳細検索]ウィンドウにキーワードを入力します。</block>
+  <block id="da3e1eecdb94e4db3eb9515e82a18d50" category="paragraph">検索オプションとしてキーワードを活動化できます。活動化されている場合は、それらの行に関連付けられているキーワードを使用して1つ以上の行を検索できます。また、*拡張検索*ウィンドウ内の検索テキストボックスを使用して、特定のコンポーネントを検索することもできます。[拡張検索（Advanced Search）]*を使用して追加された構成要素を削除するには、右ペインの*[削除（Remove）]*をクリックします。</block>
+  <block id="8eea62084ca7e541d918e823422bd82e" category="section-title">結果</block>
+  <block id="347d888cba284ec87f2267c0cacea73f" category="paragraph">検索条件に構成要素を含めると、右ペインの*検索条件*の下に構成要素が表示されます。</block>
+  <block id="c87faeee80031f0a604ec5b1fef2d9dc" category="summary">検索テキストボックスを使用して、検索条件に構成名を追加できます。</block>
+  <block id="19612440ad579d0845fc77c245ab8bf5" category="doc">検索条件に構成名を追加する</block>
+  <block id="135b308ed83c53f1516b7c754566d1c4" category="section-title">開始する前に</block>
+  <block id="544b4307f9b18bdca5c80d148e5534dc" category="paragraph">互換性がある構成を検索するには、構成名の詳細が必要です。たとえば、20150316-114603946は構成名です。</block>
+  <block id="c5f08056722017680adcbcbc5ac47db4" category="list-text">検索ボックスに、設定名を入力して一致する可能性がある項目を表示します。</block>
+  <block id="fc30ed61651dd02acb0d91c669eda8b8" category="list-text">[追加]*をクリックして、構成名を検索条件に含めます。</block>
+  <block id="6c1d3086557acbaa29d71c4f5d66fe99" category="summary">検索テキストボックスまたはソリューション検索を使用して、検索条件にソリューションを追加できます。</block>
+  <block id="f2dd2f0f8b0cf1eb92604fcf3246388f" category="doc">検索条件にソリューションを追加</block>
+  <block id="21f4f2c603c6a9d7c6b8eca3b0f72bf9" category="paragraph">検索テキストボックスまたは*ソリューション検索*を使用して、検索条件にソリューションを追加できます。</block>
+  <block id="c3b8a602c72ab1da1a288b28a3d303c9" category="paragraph">検索条件に追加する特定のソリューションがわかっている場合は、検索テキストボックスにソリューション名を入力できます。検索条件に追加するソリューションが不明な場合は、*ソリューション検索*を使用できます。</block>
+  <block id="19d0ca12a0d83c4421882a1980ac30ac" category="paragraph">検索条件に含まれる解をクリアするには、右上隅の*すべてクリア*をクリックします。</block>
+  <block id="e1103722ec2e10b538810bbb7f3c912f" category="list-text">Interoperability Matrix Toolのホームページで、検索テキストボックスにソリューション名を入力して一致する候補を確認します。</block>
+  <block id="0e839b0868b1f907c508aed01aedcd6d" category="list-text">[追加]*をクリックして、検索条件に解を含めます。</block>
+  <block id="9c71399453218b126316cfa8c158e22b" category="list-text">オプション。*ソリューション検索*を使用して、検索条件にソリューションを含めることができます。</block>
+  <block id="714eaf61d8f2b023051a8d100c238594" category="list-text">[ソリューション検索]*をクリックします。</block>
+  <block id="fd272e8e969700a7df504173f6c94217" category="list-text">[ソリューション検索]フィールドで、検索条件に追加するソリューションを指定し、*[追加]*をクリックします。</block>
+  <block id="b99bbb0f522e170d357820debbcc41de" category="list-text">必要に応じて、*[Include PVR Required]、[EOS]、*[Obsolete configurations]*チェックボックスを有効にできます。このチェックボックスには、結果にProduct Variance Request、End of version Support、およびObsoleteアイテムが含まれます。</block>
+  <block id="05f717f2635fbac040f4b9dcfccec9fa" category="paragraph">[ソリューション検索]ウィンドウ内の検索テキストボックスを使用して、特定のソリューションを検索できます。[ソリューション検索]*を使用して追加したソリューションを削除するには、上部ペインの*[削除]*をクリックします。</block>
+  <block id="998175082912beb021f4284c543f794b" category="paragraph">検索条件に解を含めると、右ペインの*検索条件*の下に解が表示されます。</block>
+  <block id="3dcfd6a4c3a84e20a59a4cf1daf54f63" category="summary">[Refine Search Criteria]ページでは、さまざまなカテゴリからコンポーネントを選択してフィルタを適用できます。フィルタを適用することで、検索条件に構成要素を追加し、構成結果を絞り込むことができます。</block>
+  <block id="2da751b1ae9cfbd7a565d0aa3303ac08" category="doc">カテゴリへのフィルタの適用</block>
+  <block id="8bd3f1f2926b69029497fe1b18c914e4" category="paragraph">[*検索条件の絞り込み*（Refine Search Criteria）]ページでは、さまざまなカテゴリからコンポーネントを選択してフィルタを適用できます。フィルタを適用することで、検索条件に構成要素を追加し、構成結果を絞り込むことができます。</block>
+  <block id="54fedbd4c5d464f56d5c258fa8e8fd14" category="list-text">要件に応じて、*[検索条件の絞り込み]*ページの目的のカテゴリからコンポーネントを選択します。各カテゴリ内で、特定のコンポーネントを検索し、必要なコンポーネントを選択できます。</block>
+  <block id="aff5c57752a05d09bdc15021f4a2af4d" category="list-text">*オプション*：さまざまなカテゴリから複数のコンポーネントを選択して、構成結果を絞り込みます。</block>
+  <block id="5869ca93f6c3b93fcee21a0770464545" category="paragraph">選択したコンポーネントの互換性によっては、一部のコンポーネントがカテゴリ内で使用できない場合があります。</block>
+  <block id="7212ca08c31821eeb6496edfc72d63ba" category="summary">Interoperability Matrix Toolを使用すると、製品間のエンドツーエンドの互換性ビューを構築できます。</block>
+  <block id="515a17a72e6cee25fbb2699551ba7700" category="doc">製品間でエンドツーエンドの互換性を構築</block>
+  <block id="aadfda839bc81dc1282d85593e6e0a3c" category="paragraph">ワークフローを次に示します。</block>
+  <block id="6ccc9c65ba8ce434745b373d4ce23f37" category="image-alt">pg17 IMT</block>
+  <block id="a8f2dd2e23ee10cc8a8bfc5da30ff0bd" category="summary">Interoperability Matrix Toolでは、構成と互換性のある関連ソリューションを選択して、特定の構成についてエンドツーエンドのビューを作成できます。</block>
+  <block id="4eb2dbe38d0667d97ff883758794aef2" category="doc">選択した構成のエンドツーエンドビューを作成する</block>
+  <block id="b531abe83825777dd1bd8297e14149d2" category="paragraph">Interoperability Matrix Toolでは、構成と互換性のある関連ソリューションを選択して、特定の構成についてエンドツーエンドのビューを作成できます。*Results*ページの* Build End to End View with *機能を使用して、構成のエンドツーエンドビューを作成できます。</block>
+  <block id="821e75721b7400aaba452b6077fc4f9d" category="paragraph">特定の構成のエンドツーエンドビューは、* Results *ページからのみ作成できます。</block>
+  <block id="243924ae17fabcf9e6324038cc3bd5d4" category="list-text">特定の構成の*Results*ページで、* Build End to End View with *ドロップダウンをクリックします。</block>
+  <block id="661028c95d63729eae5d9b9abe54976a" category="list-text">ドロップダウンリストから、その特定の構成と互換性があるとリストされている必要なソリューションを選択します。特定の構成と互換性のないソリューションはグレー表示されます。</block>
+  <block id="2bfe745d3dacd250f9e68c48fda0cc21" category="list-text">IMTの*結果*ページに、変更された構成を示す新しいタブが表示されます。要件に応じて、* Build End to End View with *機能を使用して追加のソリューションを含めるか、構成をエクスポートするかを選択できます。</block>
+  <block id="d3aaebbcf4e46bb4150c9e07bd28251b" category="summary">コンポーネント、ソリューション、またはカテゴリの組み合わせを使用して、検索条件を定義できます。</block>
+  <block id="8ee38e0305ffbadeb48d844528a6e7cb" category="doc">検索条件を定義して入力する</block>
+  <block id="be72c3e3e5768cf0f9e63fe8ce0ec615" category="paragraph">コンポーネント、ソリューション、またはカテゴリの組み合わせを使用して、検索条件を定義できます。Interoperability Matrix Toolでは、コンポーネント、ソリューション、カテゴリを追加して検索条件を入力できます。検索テキストボックス、ソリューションエクスプローラ、またはコンポーネントエクスプローラを使用して、検索条件を入力できます。</block>
+  <block id="454aa33e761b57fe07fceba1c97a8a1c" category="summary">保存した検索条件を削除できます。</block>
+  <block id="29a06b84980eab3ce920edf40d8d5109" category="doc">保存した条件の削除</block>
+  <block id="c2a4313020cfae3ae79389abd1405490" category="paragraph">保存した条件を削除するには、保存した条件の名前が必要です。</block>
+  <block id="7ea38ac86619e23b998d43e9300de6f4" category="list-text">[操作]列の下にある削除アイコン* X *をクリックします。保存した条件を削除するかどうかを確認するポップアップが表示されます。</block>
+  <block id="e60b7af6b78397b0ce0994c4015a587d" category="list-text">保存した条件を削除するには、*はい*をクリックします。</block>
+  <block id="4df02438231eca964f432488d557b6f5" category="list-text">保存した条件を保持するには、* No *をクリックします。</block>
+  <block id="79726b4c9f899e56eafd4512d22caacb" category="summary">タグ名を削除すると、保存されている設定を削除できます。</block>
+  <block id="bf4001c078f5dca25c6479d2b9431402" category="doc">タグ名の削除</block>
+  <block id="fb5a9d2c1fe276643cc1aa4fdebbd902" category="paragraph">保存されている構成のタグ全体を削除できます。</block>
+  <block id="4608e0dce52112ef1d1bd967e80b2d38" category="paragraph">タグ名を削除すると、保存されている設定を削除できます。タグ名を削除すると、それらのタグに関連付けられているすべての設定も削除されます。</block>
+  <block id="5062ba1d716aef6e001b96cddc22ed74" category="list-text">[お気に入り]*をクリックします。</block>
+  <block id="a07f03fd67353527209dd024831a83d2" category="list-text">[Saved Criteria]*ダイアログボックスで、*[Configurations]*タブをクリックします。</block>
+  <block id="972790e194f7d2d4e41a0b2a925ab4a5" category="list-text">[操作]*列の下にある削除アイコンXをクリックします。保存されたタグとその関連設定を削除するかどうかを確認するポップアップが表示されます。</block>
+  <block id="aad967fedaa6422cd5835bf24465b610" category="list-text">タグとその関連設定を削除するには、*はい*をクリックします。</block>
+  <block id="905b6080bfd6bbca59e95aff6f95cae4" category="list-text">タグとその関連設定を保持するには、*いいえ*をクリックします。</block>
+  <block id="3b7663c6488dd7497c4f7d3f79a8b572" category="summary">以前に保存した保存済みの検索条件を編集できます。</block>
+  <block id="e1045688150584d0415262e4c5db2f62" category="doc">保存した条件の編集</block>
+  <block id="f38842a1b7f6007a12c6d273c814dadd" category="paragraph">以前に保存した保存済みの検索条件を編集できます。保存した条件に新しい構成要素を追加したり、既存の保存した条件から構成要素を除去したりできます。</block>
+  <block id="01b6291996d2daf375eb9bc01feae0e1" category="paragraph">編集するには、保存した条件をロードする必要があります。</block>
+  <block id="4e102708baf37507d21f0447c94ee3bc" category="list-text">保存した条件をロードし、[保存した条件]リンクをクリックします。</block>
+  <block id="03d162f9e1a3d030cb5f634bba50c3dc" category="list-text">[Refine Search Criteria]*リンクをクリックします。保存した条件に対して条件を追加または削除できます。</block>
+  <block id="8429e5c7fba655ffa4aa171da613819d" category="summary">Interoperability Matrix Tool（IMT）はWebベースのアプリケーションで、お使いのNetApp製品の互換性やサポートされる構成を検索できます。</block>
+  <block id="65feb00ad7f6ce9dd8b3acfd443cba40" category="doc">Interoperability Matrix Toolを確認する</block>
+  <block id="8d1d531715a92e9a9357a3f3a1c54f69" category="paragraph">次のタスクを実行できます。</block>
+  <block id="838d52c510b3a7c971d00f7eb0b43d01" category="cell">使用方法</block>
+  <block id="32fbba6dfc90536fe1616258f0747518" category="cell">実行できるタスク</block>
+  <block id="7b19b37e7fc3dfe3c3e1ad5b84c7f565" category="cell">ホームページ</block>
+  <block id="80bea2be0d3ad5e38297adac8974aa4f" category="cell">ONTAP SAN Host Simplified、Solution Search、List and Find *、および* Advanced Search *を使用して検索し、互換性を確認します。トレーニング*ビデオおよび* Active IQ相互運用性アドバイザ*への直接リンクを提供します。</block>
+  <block id="cf4551d7b1bd3de8dfd62bdcc6e70c2f" category="cell">ONTAP SANホストを簡易化</block>
+  <block id="60fbb95c37f0a079f6fa8e84e18325bf" category="cell">ONTAPバージョンとフラッシュ/ファブリックストレージバージョンの組み合わせの互換性を確認します。</block>
+  <block id="d8214a5e3a3f89026f9e128a9947c838" category="cell">ソリューションの検索</block>
+  <block id="8347ea1ca5f67e9f27579e43050128f4" category="cell">ソリューションを検索し、互換性を確認するための条件を追加します。</block>
+  <block id="c1fe3261108a6e6d19adbd4b06e983ca" category="cell">リストと検索</block>
+  <block id="47dc8a6eb13d5fc80c7ddf178846b883" category="cell">コンポーネントがさまざまな構成およびソリューション全体で使用されている場所を把握します。</block>
+  <block id="cd4e65d959c181a6c42b57f47e56e716" category="cell">高度な検索</block>
+  <block id="f1bc039f73889af1f8c8e3a4f6103d4d" category="cell">コンポーネントを検索し、互換性をチェックするための条件を追加します。</block>
+  <block id="4ca2c509994c2776d0880357b4e8e5be" category="cell">サブスクリプション</block>
+  <block id="36fb8ca6aa944624dd0cdddb3b56d3e6" category="cell">以前にサブスクライブしたストレージソリューション、カテゴリ、コンポーネント*の構成を表示します。</block>
+  <block id="a274f4d4670213a9045ce258c6c56b80" category="cell">通知</block>
+  <block id="9221dc792411a0ea421419adc679b8d2" category="cell">IMTの更新通知を表示します。</block>
+  <block id="2b0c8dd29b8b84cc77b5cb3c21399a9a" category="cell">保存された検索</block>
+  <block id="93da16e00ed47a17a22590f0fa1beb9a" category="cell">以前に保存した検索を開きます。</block>
+  <block id="b79fae1e80742757dc061d411aeb4587" category="cell">構成が見つかりません</block>
+  <block id="90015d541decc5071ffdbc3ae63cfbc2" category="cell">IMTで検出できない構成をレポートする場合に使用します。</block>
+  <block id="867748323b222a2e63666df4061a041b" category="cell">ツールボックス</block>
+  <block id="0cebc24da73d54eee7400905a4684825" category="cell">お客様、パートナー、または社内NetApp *従業員としての役割に応じて、ツールにアクセスできます。</block>
+  <block id="c91c7b93c28cd18741b71f727ee81ee3" category="cell">レポート</block>
+  <block id="18c669584ed4674d6aaf2cc2085e0c43" category="cell">ソリューションの構成を* Complete Daily Exports *レポートを使用してエクスポートするか、* Component EOVS Summary *レポートを使用してサポート終了コンポーネントをエクスポートします。</block>
+  <block id="782f86dab3644181f614dc64b9708b07" category="cell">設定</block>
+  <block id="8d6a407792142d332c838476468f3434" category="cell">お気に入り*リストおよび検索*カテゴリのリストを作成します。これらのカテゴリは、* List and Find *の* Component Explorer *の上部に表示されます。</block>
+  <block id="6a26f548831e6a8c26bfbbd9f6ec61e0" category="cell">ヘルプ</block>
+  <block id="21b1f67b9d532aeefe938fbfbd201669" category="inline-link">NetAppラーニングセンター</block>
+  <block id="31c275477b920694cd24e6a1ed45d1d4" category="cell">IMTの最新リリースノートを表示するには、[新機能]*をクリックしてください。Interoperability Matrix Toolのヘルプセットを表示するには、*オンラインヘルプ*をクリックしてください。[トレーニング]*をクリックして、Interoperability Matrix Toolの使用方法を紹介するビデオを表示します。を参照してください<block ref="a8b86e50f810c84420a9f4a1ca1c2aaf" category="inline-link-rx"></block>。Interoperability Matrix Toolに関する問題の報告やフィードバックを行うには、*[問題の報告]*リンクをクリックしてください。IMTに関するよくある質問と回答を表示するには、*[FAQ]*をクリックしてください。可能な場合は、*[データイニシアチブ]*をクリックして、IMTデータベースの計画されたクリーンアップを表示します。バージョンと著作権に関する声明を表示するには、* IMTについて*をクリックしてください。製品で報告されたエラーと未解決のエラーを表示するには、*[既知の問題]*をクリックします。</block>
+  <block id="ebc93e917d94e9d73100eed072d35153" category="cell">ツアーに参加する</block>
+  <block id="83be70b7054326cbcc3cee029eb8165e" category="cell">IMTを巡るガイドツアーをご覧ください。</block>
+  <block id="40a7332ba168806ae7541e3b0d032443" category="cell">&lt;Your name&gt;</block>
+  <block id="3546181752f7fdc0791222b6f6046888" category="cell">IMTの*ログアウト*をクリックします。</block>
+  <block id="2500925cc553d5478036c23a243f8242" category="admonition">ウィンドウのサイズを変更すると、すべてのページが応答するようになります。</block>
+  <block id="f3cc6d813c2827f8ce715f9a5062edea" category="summary">エクスポート機能を使用して、*結果*ページから構成結果をエクスポートできます。</block>
+  <block id="4d69b4cfaa8dc0d672ee2750a68eb35a" category="doc">構成結果のエクスポート</block>
+  <block id="edd2e0e3ba53de74b00fda66d6e0cd30" category="paragraph">*エクスポート*機能を使用して、*結果*ページから構成結果をエクスポートできます。設定結果のエクスポートには、ストレージソリューションの詳細、検索条件、設定の詳細、および特定のアラートや追加情報が含まれます。構成結果をExcelスプレッドシートまたはPDFにエクスポートできます。</block>
+  <block id="4d3d15b0efce04bf2169f229735b7e5e" category="paragraph">構成結果を含むExcelシートのファイル名形式はです<block ref="985f9eebd8d56495a0d7e06fd8095217" prefix=" " category="inline-code"></block>。</block>
+  <block id="7c58248a593dd85ba9d14adda2af0325" category="list-text">結果*ページの*エクスポート*ドロップダウンメニューから、現在のソリューションをエクスポートするか、構成のエンドツーエンドビューをエクスポートするかを選択できます。</block>
+  <block id="66091295deef68a4da160f714733d1ac" category="list-text">要件に応じて、*現在のソリューション*または*エンドツーエンドビュー*をクリックします。最大3000行までエクスポートできます。以前は、最大1000行までエクスポートできましたが、この制限は増加しました。フィルタを使用して結果を絞り込む必要があります。必要に応じて、* Complete Daily Export *機能を使用して完全な結果を取得できます。</block>
+  <block id="b745f43e456fd9c2883fdd9f0d3ee707" category="list-text">ExcelスプレッドシートまたはPDFをローカルマシンに保存できます。</block>
+  <block id="1f5d7f61729ac0ea99e21d432126eac7" category="summary">Interoperability Matrix Toolを使用して、お使いの製品と互換性がある、サポートされているホストオペレーティングシステムを確認できます。</block>
+  <block id="71d1e250108880b270352884440117ac" category="doc">製品に対応する互換性のあるホストオペレーティングシステムを検索します</block>
+  <block id="dfcf3d00132f60b1f9af426756af39fe" category="image-alt">pg12 IMT</block>
+  <block id="1d2471da896e9e5fab480da3eb4161fb" category="summary">Interoperability Matrix Toolを使用して、お使いの製品と互換性があるWindows Serverホストを確認できます。</block>
+  <block id="bd3874832b029bd93d2d2f94463ef334" category="doc">製品と互換性のあるWindows Serverホストを検索する</block>
+  <block id="4225b706e93edb73a4180776f639dfe7" category="image-alt">PG13 IMT</block>
+  <block id="0c2d5226b127fb12ad60a887e5f266b3" category="summary">Interoperability Matrix Toolを使用すると、FCoE上のCisco UCS P81Eカードなどの構成でサポートされているホストオペレーティングシステムを表示できます。</block>
+  <block id="f701ebce5644882936dc64dd39c9e75b" category="doc">HBAカードとの互換性の確認</block>
+  <block id="cd5bfefb4f335e7277b894d20557e348" category="paragraph">ONTAP SAN Host Simplified機能を使用すると、UIがシンプルになり、3つのコンポーネントに集約されます。以前のバージョンのUIには13個のコンポーネントがありました。残りの10個のコンポーネントは、それぞれのベンダーがサポートしていれば、NetAppで暗黙的にサポートされます。*注*と*アラート*はソリューション別に分類され、各結果に追加されます。</block>
+  <block id="c5cd5334918aca90ae81dbed3fa9af3c" category="paragraph">Interoperability Matrix Tool（IMT）でサポートされるコンポーネントは、ONTAP OS、ホストOS、プロトコルの3つです。</block>
+  <block id="b17081c5e9cf9e3edc7d38c568fd322d" category="paragraph">IMTを使用して、ONTAPでホストOSがサポートされるかどうかを検証できます。</block>
+  <block id="7f8e8bbc7831c49dc122632c2c03c040" category="paragraph">たとえば、次の構成を使用して、Ciscoユニファイドコンピューティングシステム（Cisco UCS）ブレードサーバがONTAPでサポートされているかどうかを検証します。</block>
+  <block id="903b1963227fde2db30556c33f131e19" category="paragraph">* Cisco UCSブレードサーバ構成の例*</block>
+  <block id="a1b6188d218e5bddeebed696cbf3bae3" category="list-text">ONTAP OS：9.13.1</block>
+  <block id="db5c940963f3979029b7899c10d971a8" category="list-text">ホストOS：Red Hat Enterprise Linux 9.2</block>
+  <block id="1c0367b44b8dbceb306ecc16ca826d83" category="list-text">サーバモデル：Cisco UCS B200 M6ブレードサーバ</block>
+  <block id="fbb66a2116e69bb488ef282fee889dcc" category="list-text">ホストバスアダプタ（HBA）</block>
+  <block id="94feebc966033912ff0490b818801a4b" category="list-text">モデル：Cisco UCSB-MLOM-40G-04：Cisco UCS 1440仮想インターフェイスカード</block>
+  <block id="1597865539e82b0429e32ba1a84643bc" category="list-text">ドライバーバージョン：1.6.0.53 fnic</block>
+  <block id="7ef571fcd3081fe3d4f3281411fa4ccd" category="list-text">ファームウェアバージョン：5.3(2)</block>
+  <block id="dcb8960d2f325ec47f22259068aba8c8" category="list-text">UCSサーバファームウェア：5.2(0)</block>
+  <block id="b7745ef6a31023a20564a3a8e4acb14c" category="list-text">プロトコル：FCoE</block>
+  <block id="8cd6f90ffa50a2b2dfe337b908a91c7f" category="paragraph">* Cisco UCSブレードサーバのサポート性の検証*</block>
+  <block id="4a92a4cf25a34fa4eaffac25ad161bc8" category="list-text">IMTの* ONTAP SAN Host Simplified *機能を使用して、ONTAP 9 .13.1、Red Hat Enterprise Linux 9.2、およびFCoEプロトコルがサポートされる構成としてリストされていることを確認します。</block>
+  <block id="97d490040c565812e57790b753f6fb5c" category="list-text">NetAppでサポートされているHBAベンダーは、Broadcom、Marvell、およびCiscoです。Ciscoがサポートされるアダプタリストに含まれているため、Cisco仮想インターフェイスカード（VIC）もサポートされます。</block>
+  <block id="897676d58c3f76b10936d3debb7bb161" category="list-text">ベンダーのハードウェア互換性リスト（HCL）を使用して、Ciscoの「UCSハードウェアとソフトウェアの互換性」を確認します。前述のサーバ構成リストに記載されているように、HBAアダプタモデル、UCSサーバファームウェアバージョン、HBAドライバとファームウェアバージョンがRed Hat Enterprise Linux 9.2でサポートされていることを確認します。</block>
+  <block id="7353700d57c9a48ad214ff004b566fc8" category="summary">決定。</block>
+  <block id="1b86a9df2cffd5bd4c8a027852a50f51" category="doc">特定の構成を検索し、製品のアップグレードまたはダウングレードのサポート状況を確認する</block>
+  <block id="53045d2f9f252f0aa1fbe1c934b812cc" category="paragraph">Interoperability Matrix Toolを使用して特定の構成を表示し、製品構成のコンポーネントをアップグレードまたはダウングレードできます。</block>
+  <block id="aae161f20246806ea2d8edf77f1cd2ed" category="image-alt">アップグレードまたはダウングレードのための特定の設定を表示するワークフロー</block>
+  <block id="ddb380061e50fe0b9c27047f8c07bb45" category="summary">Interoperability Matrix Tool（IMT）の[Refine Search Criteria]ページでは、製品と互換性がある構成を確認できます。</block>
+  <block id="82625324f206dd07579432d92f280602" category="doc">検索条件の絞り込みを使用して互換性を検索する</block>
+  <block id="661e70dad5348cd369ab703d47b4ee48" category="paragraph">Interoperability Matrix Tool（IMT）の*[Refine Search Criteria]*ページでは、製品と互換性がある構成を確認できます。製品と互換性のあるソリューション、コンポーネント、カテゴリ、または構成を検索できます。適切なコンポーネントを選択することで、要件に応じて構成結果を絞り込むことができます。</block>
+  <block id="3e281bb9c9ea48af83b90fc55763535a" category="section-title">互換性に関する警告</block>
+  <block id="3089ec2ecc746b837909fb0f8891a7de" category="paragraph">IMTエンドユーザーアプリケーションの*検索条件の絞り込み*ページにあるコンポーネントのいずれかが相互に互換性がある場合は、互換性の警告メッセージが表示されます。互換性の警告は赤で強調表示され、ページの上部に表示されます。次のようなメッセージが表示されます。</block>
+  <block id="2551865ad6ce7e6f5e1ec745b09203dc" category="paragraph"><block ref="e9507c6157e22dd28c8b6fe86c5c8286" prefix="" category="inline-code"></block></block>
+  <block id="5da9122ffe67411f6bb966becfc55c68" category="paragraph">互換性の警告が表示された場合は、*サポートされている構成の表示*リンクをクリックして*サポートされている構成の表示*ページに移動します。</block>
+  <block id="fc92c1e728dca6d51aee88f427690340" category="summary">[Refine Search Criteria]ページでは、互換性のためのURLを生成できます。</block>
+  <block id="5cc0277c370ca1c2d5a7d406cc3cbfbe" category="doc">URLの生成</block>
+  <block id="69accc7f3e266d63fbd0e69677876cef" category="paragraph">[*Refine Search Criteria*]ページでは、互換性のためのURLを生成できます。生成されたURLは他のツールに埋め込んだり、NetAppサポートサイトにアップロードしたり、Eメールで共有したりできます。生成されたURLは、ブラウザに直接アップロードできます。</block>
+  <block id="f0b23f621e4092613ca29524bc68cbe3" category="list-text">[検索条件の絞り込み]*ページで、結果を絞り込む構成要素を選択します。</block>
+  <block id="fcd387b27a07e82e1794cf788dd97515" category="list-text">[URLを生成]*をクリックします。</block>
+  <block id="fed2cbfa37c3d422304ffa67ef9fad09" category="list-text">URL共有ウィンドウからURLをコピーします。</block>
+  <block id="8ed9eb3b74971c91c758fddb1cb97292" category="list-text">[OK]をクリックします。</block>
+  <block id="6242808d4dbdafbb3cb8ed26c467f473" category="admonition">生成したURLを使用できます。URLには、検索条件に追加したコンポーネントとソリューションが表示されます。</block>
+  <block id="b2869ebd73bb749c2a70fb53b7fb839a" category="summary">さまざまなリソース、ドキュメント、フォーラムを通じて、ヘルプや詳細情報を入手できます。</block>
+  <block id="bf07f432276ee2fe7e55f9ea12c2ba5a" category="doc">詳細情報</block>
+  <block id="5b6cf869265c13af8566f192b4ab3d2a" category="inline-link">ドキュメント</block>
+  <block id="e68bf38d69c46a5bdcb0ed45d61f1a86" category="list-text"><block ref="1e10b7111669dab6afefe8316896b856" category="inline-link-rx"></block>–このリリースおよび以前のリリースのリリース・ノートおよびガイド</block>
+  <block id="ce279515f15bf629655dc687c280f365" category="inline-link">YouTubeのNetAppトレーニング</block>
+  <block id="446b148c7e08d603df3b2e6f260e2fee" category="list-text"><block ref="30896e55faaf8126310f6a705c902e48" category="inline-link-rx"></block>–NetAppビデオ。</block>
+  <block id="ed08ca4078374e76c6df3f1999af7274" category="inline-link">NetAppのリソース</block>
+  <block id="7d88aef12769e53ffd597ccbc028b3c9" category="list-text"><block ref="75f8e16df20a05b225d51263c0872f38" category="inline-link-rx"></block>–テクニカルレポートとナレッジベースの記事「IMT」を検索することを検討してください。</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="inline-link">NetAppコミュニティ</block>
+  <block id="911f726ab6a13b9b83840ef0fa3bc02c" category="list-text"><block ref="03b9a261ab4d9f68701f67f952808855" category="inline-link-rx"></block>–NetApp製品とソリューションのフォーラム「IMT」を検索することを検討してください。</block>
+  <block id="5b016255af60a025de6e765b432b0ddf" category="summary">* What If *では、サポートされている可能性のあるすべての構成を調べることができます。</block>
+  <block id="a36cadb76d6293d933642bf23af7ee14" category="doc">What Ifの使用方法</block>
+  <block id="2d02847e890a1e20bfe66285fc0e7a2e" category="paragraph">* What If *では、サポートされている可能性のあるすべての構成を調べることができます。What If *機能を使用して、選択した構成のコンポーネントをアップグレードまたはダウングレードし、互換性を調べることができます。コンポーネントのアップグレードまたはダウングレード後にサポートされているすべての構成を表示するには、*エクスポート*オプションを使用して構成の詳細をExcelワークシートまたはPDFにエクスポートできます。</block>
+  <block id="6dd39fde28115596491353a74238c3eb" category="paragraph">* What If *ウィンドウでアップグレードまたはダウングレードする特定のコンポーネントを選択すると、選択したコンポーネントが構成内の他のコンポーネントと互換性があるかどうか、または一致する構成がないかどうかを確認できます。一致する構成がない場合は、初期条件を拡張して構成を増やすことを検討する必要があります。</block>
+  <block id="3ca94b019ebcf195609637412cfbecb4" category="paragraph">[*仮定*（What If *）]ウィンドウは、次の2つのペインに分かれています。</block>
+  <block id="d1a2c2e0873305b3f10930e78a06d693" category="list-text">上部ペインは、選択したコンポーネントが有効な構成と一致するかどうかを示します。</block>
+  <block id="3d6e9b4d2325d777a80c6ea6e8f25894" category="list-text">下部ペインには、さまざまなカテゴリとそれぞれのコンポーネントバージョンが表示されます。</block>
+  <block id="431586057fcea1248f629ef709d196af" category="paragraph">目的の構成が見つからない場合は、*[フィードバック]*をクリックして問題を報告してください。</block>
+  <block id="1ed0e75eff9abebaaab606a416c58707" category="inline-link-macro">問題を報告する</block>
+  <block id="baf93ba448f7254b708aa5fc23a8e495" category="paragraph">詳細については、を参照してください <block ref="f96d8bc56daadf09d7c41f46d3821c84" category="inline-link-macro-rx"></block>。</block>
+  <block id="149adda509afef347898a0b709d39e7d" category="summary">NetApp Interoperability Matrix Tool（IMT）はWebベースのアプリケーションです。IMTでは、NetAppで指定された標準および要件を満たすNetApp製品およびコンポーネントの構成を検索できます。</block>
+  <block id="158b0cd8e98337e4dafd6291bed45568" category="doc">Interoperability Matrix Toolの概要</block>
+  <block id="37e479b45d451661f22614d5a8e413b7" category="paragraph">NetApp Interoperability Matrix Tool（IMT）はWebベースのアプリケーションです。IMTでは、NetAppで指定された標準および要件を満たすNetApp製品およびコンポーネントの構成を検索できます。IMTは、構成のリポジトリを管理し、サポートされている構成情報に簡単にアクセスできる使いやすいインターフェイスを提供します。</block>
+  <block id="3b38d533805bb323909418ba2bdd311b" category="paragraph">IMTには、NetAppサポートサイトから次のいずれかの標準ブラウザを使用してアクセスできます。</block>
+  <block id="950ec0214988f2cee4280a4a29075cf3" category="list-text">Windowsの場合：</block>
+  <block id="22b5d218c1d742f76ac7a6d9690b1bb1" category="list-text">Chrome NおよびN-1</block>
+  <block id="8fdfc20ed5c81ca0f5bd75843bc1899a" category="list-text">Mozilla Firefox NおよびN-1</block>
+  <block id="d6a3c61f34bc8dbe9c017171f37c97f8" category="admonition">Nは最新バージョンを表します。</block>
+  <block id="472cd12a712c63a42fa8fb5f161318c6" category="list-text">Internet Explorer 11およびEdge</block>
+  <block id="ef4abdacddb3a269e8a751b134e32921" category="list-text">Macの場合：</block>
+  <block id="afd78709ed07b4142a023acd9db8eaa6" category="list-text">Safari 8以降</block>
+  <block id="1846c0f46567843e737d1a67e8731078" category="admonition">Interoperability Matrix Toolでは、特定のユースケースを簡易化するために、条件付きのURLリンクを設定できます。別のツールのリンクをクリックしてIMTを開くと、ソリューションと特定のコンポーネントが事前に選択された状態で、ホームページではなくプレイグラウンドページが表示される場合があります。</block>
+  <block id="7fff391a913df6fa81e6a758bd481434" category="section-title">Interoperability Matrix Toolを使用する</block>
+  <block id="cb547853adc31f1f9620479aab3d8aa3" category="paragraph">Interoperability Matrix Tool（IMT）は、Webベースのアプリケーションです。さまざまなソリューション、構成、コンポーネント、カテゴリを使用して、製品の互換性を検索できます。</block>
+  <block id="f2a8ac65809a63e8e3e6f626c097d1f6" category="paragraph">このツールは、簡単に操作してわかりやすくするために、*条件の入力*、*検索条件の絞り込み*、*結果*の3つのページに分かれています。最初のページで検索条件を入力する必要があります。検索条件に基づいて、*検索条件の絞り込み*ページで製品の互換性を確認できます。このトピックでは、IMTの使用方法について簡単に説明します。</block>
+  <block id="5ac071492665ed1020665cc1993b0893" category="paragraph">結果は*結果*ページで確認できます。このツールを使用して、コンポーネントの検索、選択、構築条件の作成、製品の互換性の表示を行うことができます。</block>
+  <block id="1b290eba2d0ec5102577653f0de1de81" category="paragraph">次のタスクを実行できます。</block>
+  <block id="a6b3261fc23a937b32e2123b3ed6ed68" category="cell">使用するページ</block>
+  <block id="6f12bd346c696b73d9091ca4f240a027" category="cell">条件を入力</block>
+  <block id="0e724ecf725f7b1d5cc2242f67f9b034" category="cell">検索条件を入力し、ソリューション、コンポーネント、構成、カテゴリを検索します。ソリューション名がわかっている場合は、* ONTAP SAN Host Simplified *または* Solution Search *機能を使用してソリューションを検索できます。コンポーネント名がわかっている場合は、* List and Find *または* Advanced Search *機能を使用してコンポーネントを検索できます。</block>
+  <block id="cde0dc1f79281084f435d54a430ae20c" category="cell">検索条件の絞り込み</block>
+  <block id="3f723103dfc7576cf48548094e740f8b" category="cell">製品の互換性のあるソリューション、コンポーネント、構成、カテゴリについて、より明確な「はい」または「いいえ」の答えを見つけてください。最初のページに入力した初期条件を、*[基準の変更]*または*別の方法を試してください*を使用して変更することができます。各カテゴリのコンポーネントにフィルタを適用して、製品に最適な構成を見つけます。[すべてクリア（Clear All）]または[元に戻す（Undo）]アイコンを使用して適用したフィルタを削除します。</block>
+  <block id="fd69c5cf902969e6fb71d043085ddee6" category="cell">結果</block>
+  <block id="58c512e9361b60acf4f063951883775b" category="cell">2ページ目の* Continue *、*&gt;*アイコン、またはスプリッタをクリックした後、* Results *ページを表示します。構成のコンポーネント、メモ、履歴の詳細の表示、検索結果のソート、選択した検索条件の表示、検索条件の変更、検索結果のフィルタリング、およびMicrosoft Excelシートへの検索結果のエクスポートを行うことができます。</block>
+  <block id="86f21c73bb0c1d0d4e879859c545e31b" category="section-title">Interoperability Matrix Toolのホームページを使用する</block>
+  <block id="3b5ac8d03f9f6310e122c721b88f6864" category="paragraph">Interoperability Matrix Tool（IMT）のホームページでは、* ONTAP SANホストの簡易化*、*ソリューションの検索、リストと検索*、*高度な検索*を使用できます。</block>
+  <block id="8aa2be3c8541db53312080d6b7af39bf" category="paragraph">* Set as Default * starを使用して、これらのオプションをデフォルト検索として設定できます。いずれかのオプションをクリックすると、該当するページが開き、互換性のある構成が表示されます。</block>
+  <block id="318d41b50563b5f3d2ab4c315f1a8613" category="admonition">以前に保存した検索を検索するには、*保存した検索*メニューを使用します。必要な構成が見つからない場合は、[*Can Not Find Config?*]メニューをクリックして問題を報告してください。</block>
+  <block id="61227a4a707d7c445d63c926c6891462" category="summary">Interoperability Matrix Toolの使用を開始する際には、ワークフローを使用して説明される一般的なユースケースを理解しておくことが重要です。</block>
+  <block id="2a85b4097b57bbd38dd15aa7ab34a80d" category="doc">Interoperability Matrix Toolの検索ワークフロー</block>
+  <block id="d73b0da3447a7b3c3de838cc2d8f3705" category="summary">以前に保存した設定は、ホームページからロードできます。保存されている構成のタグ名、説明、ソリューション名を表示できます。</block>
+  <block id="aeb4f40f23d25ac709dfd1830f05a3c6" category="doc">保存されている設定のロード</block>
+  <block id="43749eb5a2d09f8f8e3529b59e2f3628" category="paragraph">特定の設定に指定した名前を検索することで、特定の設定をロードできます。</block>
+  <block id="d5bcfba6484fd0f51d0c051578a06c55" category="paragraph">設定をすでに保存している場合は、後でいつでもロードできます。</block>
+  <block id="0daf919eb8e41b5dc97a4af2ef833bf5" category="list-text">ホームページで* Saved Search *オプションをクリックして、保存した構成をロードします。</block>
+  <block id="a181166aa1053e21a6817485b8a62953" category="list-text">[保存済みの構成]タブで、[構成]をクリックします。</block>
+  <block id="1e72ee87bb0ae1884d33e091d24de098" category="list-text">保存されている構成の上にマウスを置くと、構成名が表示されます。</block>
+  <block id="047c69a510c16702380165aebda65688" category="list-text">[Tag Name]*をクリックし、設定をロードします。</block>
+  <block id="0532f3e0c0e98b366c17c05b7808fb2d" category="list-text">[詳細を表示]*リンクをクリックして、[結果]ページに移動します。</block>
+  <block id="e8d00dad529b9352fc56fd8fa9796fc6" category="summary">ホームページでは、コンポーネントを検索するか、以前に保存した条件をロードするかを選択できます。</block>
+  <block id="3ad141b1cd2afe19f2415bd41fab474d" category="doc">保存した条件をロードします</block>
+  <block id="0005c57f76ba9e8ea662b5ef32a2de85" category="paragraph">ホームページに検索条件を保存しておく必要があります。</block>
+  <block id="0819aa555edc864acfa72a53c486c126" category="paragraph">[保存済み検索（Saved Search）]*をクリックすると、以前に保存したすべての条件をロードできます。</block>
+  <block id="0dfb7116d87298f76b2e085602e4502a" category="list-text">最初のページの*[保存済み検索]*をクリックします。</block>
+  <block id="21fa2b596d8adeb516e52bce39d9c334" category="list-text">保存した基準または構成をロードするには、*基準*または*構成*タブをクリックします。条件名を選択すると、検索条件パネルに条件がロードされます。</block>
+  <block id="1efc14e81baa9059e46f78473ef543aa" category="summary">[Refine Search Criteria]ページでは、検索条件を変更して、ソリューション、コンポーネント、またはカテゴリを条件に追加できます。</block>
+  <block id="1dc11ad6ca9ec5fdcdb1a9cf379f5504" category="doc">検索条件の変更</block>
+  <block id="ce17a27bd8d11f30bd723bd5b488d63e" category="paragraph">[*Refine Search Criteria*]ページでは、検索条件を変更して、ソリューション、コンポーネント、またはカテゴリを条件に追加できます。</block>
+  <block id="ae5a975594bcd4ddf1dfd63c649f56d2" category="list-text">[Refine Search Criteria]*ページで、*[Change Criteria]*をクリックします。</block>
+  <block id="e0636dc5974ea34440665a409c5f15e1" category="list-text">検索条件ページで、検索テキストボックスを使用してソリューション、コンポーネント、またはカテゴリを追加できます。</block>
+  <block id="1697e862953ccbbd56111e77eb57c685" category="list-text">[次へ]*をクリックすると、*[検索条件の絞り込み]*ページに互換性のある構成が表示されます。</block>
+  <block id="1463523d7e5042eac98a0ddebe5aa86c" category="summary">Interoperability Matrix Tool（IMT）のホームページにあるカードを使用して、ONTAP SANホストの簡易検索、ソリューションの検索、リストと検索、高度な検索などの一般的な検索を実行します。</block>
+  <block id="3bdc568a8bcd812e1b8ceca566581918" category="doc">一般的な検索の実行</block>
+  <block id="3af0043e9a42dbcb3994fe0a434a71ce" category="paragraph">Interoperability Matrix Tool（IMT）のホームページにあるカードを使用して、* ONTAP SAN Host Simplified *、* Solution Search *、* List and Find *、* Advanced Search *などの一般的な検索を実行します。</block>
+  <block id="d067ad360948d10f2d780f075697e18f" category="paragraph">IMTを開くと、最も一般的な検索タイプがホームページに表示されます。</block>
+  <block id="d502b8e07d27fad00c4965d4647db3a2" category="list-text">* ONTAP SANホストの簡易化*</block>
+  <block id="3fd79e93f13415c1bdd8b5549bbcaa6b" category="list-text">*ソリューション検索*</block>
+  <block id="74152f0f0743d856ced77dc3f2335ebd" category="list-text">*リストと検索*</block>
+  <block id="f5167a76744a057734881839f6024df8" category="list-text">*詳細検索*</block>
+  <block id="06d26363632e23515632763b195365bf" category="inline-link">トレーニングビデオ</block>
+  <block id="a73a5f329094de39386ea09d01d1ddfc" category="inline-link">Active IQアドバイザー</block>
+  <block id="fb29be4696f2fe6f4f627f98a34a2f1b" category="paragraph">のホームページでは、を視聴したり開いたりする<block ref="78271e392417a9b42ec24b305b4c350a" category="inline-link-rx"></block>こともできます<block ref="ec04b3a82336da62b4db4326887e8bbd" category="inline-link-rx"></block>。</block>
+  <block id="cf1c4646242def1428c155c9317d29a1" category="summary">Interoperability Matrix Toolでは、*[Refine Search Criteria]*ページから、製品と互換性がある構成を確認できます。</block>
+  <block id="784e74992af3834f944fb515f4448bba" category="doc">[Refine Search Criteria]ページで互換性を確認します。</block>
+  <block id="1587d4268b25a2b9335f44610033db17" category="paragraph">Interoperability Matrix Toolでは、*[Refine Search Criteria]*ページから、製品と互換性がある構成を確認できます。このページの構成結果を製品に適した構成に絞り込むことができます。</block>
+  <block id="e657f68f47b6f46ab9d94df9ae5adb88" category="paragraph">入力した条件にサポートされている構成がある場合にのみ、最初の検索条件ページから*検索条件の絞り込み*ページに移動できます。[Refine Search Criteria]ページは、次の2つのペインに分かれています。</block>
+  <block id="bff3de2c9fbca70fdd304c24e0c96f1e" category="list-text">*検索条件*:検索条件に追加されたソリューション、コンポーネント、フィルタが表示されます。初期検索条件を変更して、必要な構成結果を表示できます。[条件の変更（Change Criteria）]をオンにすると、[検索条件（Search Criteria）]ページに戻り、最初の検索条件を変更できます。[動的フィルタ（Dynamic Filtering）]*タブをチェックすると、構成要素間の互換性をすぐに確認できます。[動的フィルタ（Dynamic Filtering）]タブのチェックを外して複数の構成要素を追加し、*[更新（Update）]*[カウント（count）]をクリックします。[別の方法を試す]タブをオンにすると、ホームページに移動できます。</block>
+  <block id="47e9518e04b7d57a34263f7892c863b8" category="list-text">*検索条件の絞り込み*:さまざまなカテゴリのコンポーネントのリストを表示します。このペインに表示されるカテゴリは、検索条件と互換性のある構成によって異なります。</block>
+  <block id="38d79dd1e98099e8c66985ea5676f993" category="list-text">最初の検索条件にソリューションを含めた場合は、Refine * Search Criteria *ページでその特定のカテゴリからコンポーネントを選択したり、他のカテゴリからコンポーネントを選択したりできます。</block>
+  <block id="6cce0a2ed9251b55e6bfda158c667384" category="list-text">初期検索条件に特定のコンポーネントを含めた場合、*検索条件の絞り込み*ページで初期検索条件に含まれるコンポーネントの選択を解除することはできませんが、他のカテゴリから追加のコンポーネントを選択することはできます。</block>
+  <block id="8ab8467c478df9b1a8aceed1245a2d66" category="paragraph">各カテゴリでは、フィルタアイコンを使用して検索テキストボックスを表示し、特定のコンポーネントを検索できます。*検索条件*ペインで構成部品の選択をリセットまたはクリアするには、*すべてクリア*をクリックします。</block>
+  <block id="3da77797c976f88886e4bcf4b163ecb0" category="paragraph">さまざまなカテゴリから選択したコンポーネントに応じて、構成結果の数が異なる場合があります。選択するコンポーネントが多いほど、Interoperability Matrix Toolで検索結果が絞り込まれ、製品に必要な構成を表示できます。</block>
+  <block id="df2c00b46ef9ba19741e02e6a0b37e63" category="summary">不要な保存済み設定を削除または更新できます。</block>
+  <block id="586536c712502532cd5e34785e9b1c25" category="doc">保存されたタグから構成を削除</block>
+  <block id="961c8e5340cb5778c5805a50326242e5" category="paragraph">結果からコンフィギュレーションを保存した場合は、参照のために不要になったコンフィギュレーションを削除できます。</block>
+  <block id="03702cd77bb84e389813d7ad6b0a61cd" category="list-text">黄色の星印アイコンをクリックして、保存されている設定を削除または更新します。</block>
+  <block id="6bb5550ec20db2972bec2a14c98b4334" category="list-text">保存した設定を削除するには、*[削除]*をクリックします。ポップアップの削除ボタンをクリックすると、星のアイコンが黄色から白に変わります。</block>
+  <block id="e1166f794cd554e4bb0519d72e4ac49c" category="summary">問題が発生した場合は、サポートチームとフィードバックチームに問題を報告できます。</block>
+  <block id="c9be257d441fc3cc4d51ae5752c6e9a1" category="paragraph">問題が発生した場合は、*問題の報告*機能を使用して、サポートおよびフィードバックチームに問題を報告できます。</block>
+  <block id="c7a90011ec4e77f58a2cac82e14e9ff6" category="summary">最近の検索を保存して、後で検索するための条件を保存できます。</block>
+  <block id="54920763a7a968a65321a00d66b3acc3" category="doc">最近の検索の保存</block>
+  <block id="f3422b785e2576499ec1f1f61c205db5" category="paragraph">Welcome to the IMTページでは、最近の検索を保存して、後で検索するための条件を保存できます。</block>
+  <block id="c20fd47018c862a7451d053362dbf161" category="list-text">[ソリューション検索]または[詳細検索]をクリックします。</block>
+  <block id="41560cf107c4abdd66a9c07e7023edb3" category="list-text">検索条件を選択します。</block>
+  <block id="8debc2e41568eb8094071b5fa349e738" category="list-text">[Skip to Results]を選択するか、[Next]をクリックして検索条件を絞り込み、[View Supported Configurations（results）]ページに移動します。</block>
+  <block id="a7ed4616aab31f1b8a77e3e48b8a7082" category="paragraph">条件が自動的に保存されることを示すポップアップダイアログが表示されます。</block>
+  <block id="f79de03d41d30156ddeeeeb88d64f5c6" category="summary">[保存された検索（Saved Search）]メニューを使用して、さまざまなソリューションまたは構成をロードできます。このメニューを使用すると、以前に保存した検索結果、最近の検索結果、および保存された構成に移動できます。</block>
+  <block id="bafb5d5d68032f0cd01cfbc25237cbaa" category="doc">保存された検索機能</block>
+  <block id="fcc9eb63d6626293c9d2af5d47a3694c" category="paragraph">[検索条件]タブには、保存した検索条件が表示されます。このタブでは、検索を共有したり、他のユーザーが自分と共有した検索を表示したりできます。[構成]タブには、保存した構成が表示されます。このタブでは、設定を共有したり、他のユーザーが自分と共有した設定を表示したりできます。</block>
+  <block id="bf7484feef7ef313fd098d9c643450f4" category="paragraph">[最近の検索]タブには、最新の検索条件から最も古い検索条件まで、最新の30セットが表示されます。また、元のページを示す*検索フロー*もリストされます。これには*リストと検索、ソリューションエクスプローラ、または詳細検索*があります。条件は自動的に保存されます。このページには、保存済みまたは最近の検索の*最終更新日*も表示されます。リストから検索をロード（Load）*して、それぞれ条件または構成を表示できます。</block>
+  <block id="8a697a78ea03392a1de668f9f7640de2" category="summary">条件は他のユーザーと共有できます。</block>
+  <block id="40100e04c6c8b66e6166b86ca1223ad1" category="doc">保存した検索条件を他のユーザーと共有</block>
+  <block id="d223a67d6761207bc0016c62152b8f78" category="paragraph">[検索条件の絞り込み]ページから、保存した検索条件を他のユーザーと共有できます。</block>
+  <block id="1afa3fab843060f56d47cf8e18d47c26" category="paragraph">検索条件を保存して共有するには、次の3つの方法があります。</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-xref"></block>
+  <block id="0917c609dcc1133b4b04893020ce5a9b" category="list-text"><block ref="e1d20b7c5345a1ca0d4ca5f18c411088" category="inline-xref-macro-rx"></block></block>
+  <block id="7c8ad1f0e7393914bfd5bf3ef0aaa84e" category="list-text"><block ref="aa46c9ec17ec30bac8d2ba8aea4ef2b6" category="inline-xref-macro-rx"></block></block>
+  <block id="9b8d12df1814ba93968722bee2e2f7e6" category="list-text"><block ref="47f7ecc698c18cacae02465134f07565" category="inline-xref-macro-rx"></block></block>
+  <block id="2395aac43a3b28bcb3d86f1fb63899d8" category="section-title">保存中に条件を共有する</block>
+  <block id="9575e98463c6debdaed1c1ef1328f491" category="paragraph">[Refine Search Criteria]ページでは、保存時に検索条件を共有できます。</block>
+  <block id="eb3a12b537be06f2f69e9ada2353baeb" category="paragraph">保存中に条件を共有するには、最初のページでソリューションとコンポーネントを追加する必要があります。</block>
+  <block id="d8e1a3e23e5ec1845d9c99d468966be7" category="list-text">保存した検索条件を共有するには、[共有]チェックボックスをオンにします。</block>
+  <block id="60a8990ca87e2fd3f76ab563a9551c78" category="list-text">ユーザ検索のテキストボックスにユーザ名を入力し、[Add Users]をクリックします。</block>
+  <block id="df4719a8986d0ca8627a45e5b2a46e04" category="admonition">ユーザー名が存在しない場合は、検証メッセージが表示されます。</block>
+  <block id="5925a1c0e312b718d3d78bbe35c3d49e" category="list-text">検索ユーザーオプションを使用して検索し、共有条件に送信することができます。</block>
+  <block id="7426996286810ff9613244c7edeaf999" category="section-title">保存後に条件を共有する</block>
+  <block id="9c0d2a5e2b8b6136baed97a7f63f0097" category="paragraph">[Refine Search Criteria]ページでは、保存後に検索条件を共有できます。</block>
+  <block id="b65245bdf543a38aa3b148a2330dbb3a" category="paragraph">保存後に条件を共有するには、保存された検索ソリューションと構成要素を最初のページに追加する必要があります。</block>
+  <block id="a2885b4d6eff311636d00f627324f01c" category="list-text">ホームページで[Saved Search]オプションをクリックします。</block>
+  <block id="ff7f0220f271c42b464d84ad28453440" category="list-text">[共有]をクリックして、条件を他のユーザーと共有します。</block>
+  <block id="4cfc06fd58e7f0e2aa1b8f124813ae71" category="list-text">テキストボックスにユーザ名を入力してユーザを検索し、[Submit]をクリックします。</block>
+  <block id="2254b563c52fa08bf51259ad3a808829" category="section-title">共有条件の表示</block>
+  <block id="b8e28d04f87c426f5de7c9ef4f56a09e" category="paragraph">[保存済み検索（Saved Search）]にソリューションと構成要素を保存する必要があります。</block>
+  <block id="5b7571e534ed46d4ca528df1d1715a72" category="list-text">[保存済み検索（Saved Search）]オプションをデフォルトに設定すると、他のユーザーと共有した条件を表示できます。</block>
+  <block id="441a74be085e88436fc75c069f505a3d" category="list-text">共有基準を表示するには、[共有者]列から[ユーザー名]を選択します。</block>
+  <block id="7af3734b7440460bde586b702e40dc8c" category="list-text">共有ユーザに共有について通知するEメール通知が送信されます。</block>
+  <block id="cca1a017c6fe62d07caed34a55735170" category="admonition">元の基準への更新は、共有されている基準には影響しません。それらは別個のエンティティと見なされます。</block>
+  <block id="18713831a09c5c7f97239a674295ac2b" category="doc">最近の検索を保存する</block>
+  <block id="43ce49852967977e02b10f118f2140e2" category="list-text">[ソリューション検索]*または*[詳細検索]*をクリックします。</block>
+  <block id="e93c73fa13a2ee15f1e9b6e8d28873d8" category="list-text">[Skip to Results]*を選択するか、*[Next]*をクリックして検索条件を絞り込み、*[View Supported Configurations]*（結果）ページに移動します。条件が自動的に保存されることを示すポップアップダイアログが表示されます。</block>
+  <block id="bdfeda4bcd0bfa637e60d6c5fe2b25b5" category="summary">特定のソリューション用に任意の名前で構成を保存できます。</block>
+  <block id="cf565402d32b79d33f626252949a6941" category="doc">構成を保存</block>
+  <block id="09121540463fb871c274bbceeedeb725" category="paragraph">特定のソリューション用に任意の名前で構成を保存できます。これにより、複雑な設定IDを覚えていなくても、後で設定を取得できます。</block>
+  <block id="ffe82760f5b16eb2eab68ba09dbf68c2" category="paragraph">指定した名前を検索することで、後で目的の設定を簡単に取得できます。</block>
+  <block id="e2999eb17be3afc60649f822e6018954" category="paragraph">後で設定を参照する場合は、任意の名前で設定を保存できます。</block>
+  <block id="6808587d16f321260a9d307bdfcad9e7" category="list-text">[結果]ページで、星印をクリックして構成を保存します。設定を保存すると、星が黄色に変わります。最大20個の構成を保存できます。</block>
+  <block id="840cd922c8d96b582780e1afb3986579" category="list-text">[タグ設定]ダイアログボックスで、参照用に設定をブックマークするための名前と説明を入力します。保存されている構成の名前が構成の詳細リンクに表示されます。特定のタグに複数のコンフィギュレーションを追加できます。タグは、単一のソリューションに固有のものです。異なるユーザが同じタグ名を使用できます。</block>
+  <block id="8a8179dcbfdb34614a07f6a3ab8767dc" category="list-text">ドロップダウン矢印からタグ名を選択して、保存済みのタブにコンフィギュレーションを追加します。</block>
+  <block id="3f2d805e8c14e765c1ddc7588aa0af74" category="summary">[Refine Search Criteria]ページでは、検索条件を保存または更新して、後で取得することができます。</block>
+  <block id="7cf37abfb86f13e7881ba7f0ee929775" category="doc">検索条件を保存する</block>
+  <block id="69bd39b27396c460de7dffde002b3a4f" category="paragraph">[*Refine Search Criteria*]ページでは、検索条件を保存または更新して後で取得することができます。</block>
+  <block id="24bb7af209fc829bb1f38a2b1bbbcf02" category="paragraph">後で参照できるように条件を保存するには、最初のページでソリューションと構成要素を追加しておく必要があります。</block>
+  <block id="e12e456faab15986ce687ca283dfee9a" category="list-text">[Refine Search Criteria]ページの*[Save Criteria]*をクリックします。</block>
+  <block id="c3511a2a75c145a073031ce67b4cde18" category="list-text">[基準名]*を入力し、*[説明]*フィールドに情報を追加します。[条件名]*には英数字を使用でき、最大20文字まで追加できます。[説明]フィールドには、最大100文字の英数字を入力できます。Interoperability Matrix Toolでは、保存条件に重複した名前を使用することはできません。*基準名*は必須です。</block>
+  <block id="394f358d6e8000897e7a01a4f208e59c" category="list-text">[条件の更新]*をクリックして、保存した条件の一部として含めるフィルタまたは条件を追加します。</block>
+  <block id="c9cb70ada3079e89b71a014047a8c2da" category="list-text">[ 保存（ Save ） ] をクリックします。条件を保存すると、*条件の保存*リンクが*条件の更新*に変わります。最大10個の検索条件を保存できます。</block>
+  <block id="1c2330855bcf8dd1b692d50681ea4805" category="paragraph">[検索の保存]*をクリックすると、*[検索条件の保存]*ポップアップが表示されます。[最近の検索]タブには、最近の検索結果が表示されます。</block>
+  <block id="d449eb38510b44904f1a170873f49309" category="paragraph">最近保存された各検索は、タイムスタンプによって一意に識別されます。タイムスタンプをクリックすると、*検索条件の絞り込み*ページが表示されます。</block>
+  <block id="888b783c8de25fa8c73e802cc44e1eae" category="summary">*Results*ページのWhat if機能を使用して、製品構成のコンポーネントをアップグレードまたはダウングレードできます。構成要素を変更して互換性を調べることができます。</block>
+  <block id="d9e123d5d66e7b9d2184c4852d600235" category="doc">アップグレードまたはダウングレードするコンポーネントを選択</block>
+  <block id="50f0605b66fe680311cdaf91c21b5c2c" category="paragraph">製品構成のコンポーネントをアップグレードまたはダウングレードするには、*結果*ページの*仮定*機能を使用できます。構成要素を変更して互換性を調べることができます。</block>
+  <block id="4fc43e1250ee0fbf204db6bdc5a80acf" category="list-text">[What If]*をクリックすると、アップグレードまたはダウングレードして選択した構成を変更できるコンポーネントが表示されます。</block>
+  <block id="feebe9eaa17ff80987d6eb3d371add59" category="list-text">カテゴリをクリックすると、アップグレードまたはダウングレードに使用できるコンポーネントが表示されます。</block>
+  <block id="b8d80b74292e31d238a66820c48de737" category="list-text">使用可能なオプションウィンドウで、特定のコンポーネントバージョンを検索して選択できます。</block>
+  <block id="d2744c2316440720f728725fd2656a4e" category="list-text">選択したコンポーネントが有効な構成で、以前の構成と互換性がある場合は、互換性メッセージが表示されます。結果をエクスポートして、サポートされているすべての構成を表示できるようになりました。</block>
+  <block id="8b6ae4b6bac8d1c26b12c08daa8236bb" category="summary">ExcelまたはPDF版のソリューションレポートを表示およびダウンロードできます。</block>
+  <block id="431bda3fd1123e74a18c1b2f404f7e3e" category="doc">ソリューションレポート</block>
+  <block id="999cd51a83c0715733614645b09d0112" category="paragraph">ExcelまたはPDF版のソリューションレポートは、*[レポート]&gt;[毎日のエクスポートの完了]*機能を使用して表示およびダウンロードできます。Excel版の* Component EOVS Summary *をダウンロードすることもできます。ここには、バージョンのサポートが終了したコンポーネントが一覧表示されています。</block>
+  <block id="813c39388e3ea4a4a2178b06f3abbd5f" category="summary">選択した1つまたは複数のカテゴリにサブスクライブできます。</block>
+  <block id="f275139dd1477a6116bca7a603350e57" category="doc">カテゴリのサブスクライブ</block>
+  <block id="459458724e11ff0e5c0c5226c14171c0" category="paragraph">コンポーネントがカテゴリに追加または削除されると、電子メール通知が送信されます。</block>
+  <block id="3577e45092be56ad7e64ba9b429c5705" category="list-text">ヘッダーメニューの* Subscription *リンクをクリックします。</block>
+  <block id="55f6cfca3d425decf96d896fa7580ab1" category="list-text">サブスクリプションウィンドウで、*カテゴリ*タブを選択します。</block>
+  <block id="7d96920540505974c713c982d17d0686" category="list-text">選択したカテゴリで、[追加または削除されたコンポーネント]オプションのチェックボックスをオンにします。</block>
+  <block id="214df4595fc1ae4002445d2e3d07b390" category="list-text">[頻度]フィールドで、*[即時]*または*[ダイジェスト]*を選択します。</block>
+  <block id="7b3ef14ab163be72192be9a5252bd234" category="admonition">デフォルトでは、*即時*が選択されています。</block>
+  <block id="1c7eecc0e0946fba660b6c6a82700369" category="list-text">サブスクライブしたカテゴリのサブスクリプションを取得するには、*サブスクライブ*をクリックします。</block>
+  <block id="41a8e722844ed7656085dd96bbb0d312" category="admonition">[カテゴリ]タブのすべての選択を解除するには、*[リセット]*をクリックします。</block>
+  <block id="8cdb27b864d6e06976dc6261cd18bb5b" category="summary">選択した1つまたは複数のコンポーネントをサブスクライブできます。</block>
+  <block id="508fbbd790f857127c9155f0724c240d" category="doc">コンポーネントにサブスクライブ</block>
+  <block id="e81ebc26abd04b71d90173320c78d4dd" category="paragraph">コンポーネントの表示名またはコンポーネントの状態が変更されると、電子メール通知が送信されます。</block>
+  <block id="574e15debf5778641af59391da9500fe" category="list-text">サブスクリプションウィンドウで、*コンポーネント*タブを選択します。</block>
+  <block id="01c10d345f044c7f18be37263c5baeed" category="list-text">選択したコンポーネントをサブスクライブするには、*属性が更新されました*オプションのチェックボックスをオンにします。</block>
+  <block id="272cade40d7e9076a3e79ba7ae5d07a3" category="list-text">サブスクライブしたコンポーネントのサブスクリプションを取得するには、*サブスクライブ*をクリックします。</block>
+  <block id="7f69ab239a1b8ebd84d3729fe9a802fe" category="admonition">[リセット（Reset）]*をクリックすると、*[構成要素（Component）]*タブのすべての選択をクリアできます。</block>
+  <block id="e1e7614f94499f2aca20f63a15fb39e0" category="summary">特定のソリューションまたはコンポーネントについて、任意の名前で構成をサブスクライブできます。</block>
+  <block id="8c5e710b463aebcc3607a3e16a62d378" category="doc">構成にサブスクライブ</block>
+  <block id="4b08176137b02874d2675f566ef9dbec" category="paragraph">特定のソリューションまたはコンポーネントについて、任意の名前で構成をサブスクライブできます。これにより、サブスクライブされた行に更新または変更がある場合に、電子メールで更新を受信することができます。最大20個の構成をサブスクライブできます。</block>
+  <block id="1f44a59ac278476eb9645e196a6b1af6" category="paragraph">次の場合にEメールを受信できます。</block>
+  <block id="873da3c1506651d4830f2fe6fd1198a9" category="list-text">構成にコンポーネントが追加されるタイミング</block>
+  <block id="87955c5cf2df63e6bef81a8605eb9c3e" category="list-text">構成からコンポーネントが削除されるタイミング</block>
+  <block id="6b764f9ef0a98a99bcca8f397c582829" category="list-text">メモが構成に追加または削除されたとき</block>
+  <block id="2066131a3ad142dcaccc1edc38957728" category="list-text">構成の状態がサポート対象から追加のいずれかの端末状態（EOS、廃止など）に変更された場合。</block>
+  <block id="833cb41c65cebd1adbd9cdfe76fe47af" category="list-text">[タグ設定]ダイアログボックスで、参照用に設定をブックマークするための名前と説明を入力します。</block>
+  <block id="0853005568038530d17f8b473aa83d18" category="list-text">[この設定にサブスクライブ（Subscribe）]*をクリックします。</block>
+  <block id="336179b864dd55354e8b20409f39c675" category="list-text">[タグ]*をクリックします。</block>
+  <block id="a0ffe02c554c55c787a11d9720938449" category="summary">サブスクリプションでは、1つまたは複数のストレージソリューション、カテゴリ、コンポーネントを選択できます。</block>
+  <block id="4dfece803af058364e1f077c76d10645" category="doc">ストレージソリューション、カテゴリ、またはコンポーネントのサブスクライブ</block>
+  <block id="588de430ceae787096fad95acc7e45fc" category="paragraph">[サブスクリプション]タブでは、次のサブスクリプションをサブスクライブできます。</block>
+  <block id="54cbeb8988d779c80f3bfdeaf257380e" category="list-text">ストレージソリューションのサブスクライブ</block>
+  <block id="a3038ba6a940fdf1b2dba20f347ea7ec" category="list-text">カテゴリへのサブスクライブ</block>
+  <block id="5d0937f99cb4eacba4b6cd45fbdf78e2" category="list-text">コンポーネントへのサブスクライブ</block>
+  <block id="a62824c4f47fa0da7d944f92c36e0d73" category="summary">1つまたは複数のストレージソリューションを選択できます。</block>
+  <block id="c200e8439b397b7e65939a7feab229e0" category="doc">ストレージソリューションのサブスクライブ</block>
+  <block id="2d6152b89ad002d7fcc2cfe8ceef2c4c" category="paragraph">サブスクリプションには次の2種類があります。</block>
+  <block id="461cc16dc1432fa6d10fa88f7778f4b0" category="list-text">*即時*：購読しているソリューションに変更が加えられた場合、すぐに電子メールが送信されます。</block>
+  <block id="0215d3bb71b13ee4534fa20733a7ef47" category="list-text">*ダイジェスト*：サブスクライブされたソリューションに加えられたすべての変更を反映したメールが7日以内に送信されます。</block>
+  <block id="bb15c131ac9fd6083c71a0d91e6bd2ef" category="list-text">[サブスクリプション]*ウィンドウで、*[Storage Solution]*タブを選択します。</block>
+  <block id="2dd900b3e88533d0a191c1e12f347a6a" category="list-text">選択したストレージソリューションの場合は、*[ソリューションステータスの更新]、[カテゴリの関連付け/関連付け解除]、または[構成の追加/削除]オプションのチェックボックスをオンにします。</block>
+  <block id="6ce8ddc7f15b5911c3e6ea44a5a0c155" category="paragraph">次の場合にEメールが送信されます。</block>
+  <block id="7c5f6302701612ddd3eb7b943612c3ed" category="list-text">ソリューションのステータスが変更または更新されたとき。</block>
+  <block id="08ab5ebeb1193b28045b328e8e62bdbd" category="list-text">一部のカテゴリがソリューションに追加または削除された場合</block>
+  <block id="bfc3ceef09d090d222b0f1b4ca5fbe9a" category="list-text">一部の構成がソリューションに追加または削除された場合</block>
+  <block id="913efce424822314257e798b0558a5bd" category="list-text">[頻度]フィールドで、*[即時]*または*[ダイジェスト]*を選択します。</block>
+  <block id="67efe4e7df356a0e984d0b7528d0ce52" category="list-text">[サブスクライブ]*をクリックして、選択したソリューションをサブスクライブします。</block>
+  <block id="4f8a359ff75a95d3060e02c255c77059" category="admonition">[リセット]*をクリックすると、*[Storage Solution]*タブのすべての選択をクリアできます。</block>
+  <block id="ba07bc773ce0f918b1eefce047245719" category="summary">Interoperability Matrix Tool（IMT）を使用すると、サポート対象の構成の結果を簡単に確認できます。</block>
+  <block id="0769ff8c1f83c91c3b16b9ce2775faab" category="doc">サポートされる構成検索</block>
+  <block id="a85654fdf83648d3d156ca9b589151ef" category="paragraph">Interoperability Matrix Tool（IMT）を使用すると、サポート対象の構成の結果を簡単に確認できます。結果の変更、フィルタリング、エクスポート、検索条件の表示や変更など、複数のタスクを実行できます。</block>
+  <block id="125196a9553cb7d66c81efa5b9955299" category="paragraph">IMTの*結果*ページには、入力した検索条件に応じて、サポートされている複数の構成が表示されます。特定の構成の完全な構成の詳細を表示するには、構成の名前またはID（20150202-204717518など）をクリックします。</block>
+  <block id="eff88d54854b0637031f4066736623bc" category="cell">フィールド名</block>
+  <block id="b5a7adde1af5c87d7fd797b6245c2a39" category="cell">製品説明</block>
+  <block id="1d1072a665cbd7dce3a24d1d65d8841e" category="cell">結果にスキップ</block>
+  <block id="c02f6ac7ed2ef03115324db2d2969b64" category="cell">検索条件の絞り込み*ページをスキップして、*結果*ページに直接移動できます。</block>
+  <block id="5599cdd55ff94796811f21712663c422" category="cell">構成の名前またはID</block>
+  <block id="e299f86d07766b826feb2bdd501107f4" category="cell">構成の名前またはIDは、特定の構成に割り当てられる一意の識別子です。設定名をクリックすると、すべての設定の詳細を表示できます。コンフィギュレーションのステータスとコンフィギュレーション名が表示されます。</block>
+  <block id="3ec365dd533ddb7ef3d1c111186ce872" category="cell">詳細</block>
+  <block id="18db45df0ae63dc08635ce638e77dcd7" category="cell">特定の構成の互換性のあるコンポーネントおよびカテゴリについての情報を提供します。</block>
+  <block id="df583ae7ba964fd4806b55904da81813" category="cell">アラート</block>
+  <block id="16376cb8d4986c15fde7c163e711c21e" category="cell">リリースノート、導入に関する情報、推奨事項など、構成に関する重要な情報を提供します。</block>
+  <block id="4059b0251f66a18cb56f544728796875" category="cell">情報</block>
+  <block id="0a6af34dc2bd480d3ef1ded69dfa5798" category="cell">設定の詳細については、を参照してください。</block>
+  <block id="16d2b386b2034b9488996466aaae0b57" category="cell">履歴</block>
+  <block id="3456dcddae33c9d9fbce081495426626" category="cell">設定内容の履歴が表示されます。構成内容は、詳細が追加されると緑で、詳細が更新されると青で、詳細が削除されると赤で、変更がない場合は黒で強調表示されます。</block>
+  <block id="8a4eba6be6fe9fbed9197dec9246211f" category="cell">を使用してエンドツーエンドビューを作成</block>
+  <block id="cc9cac1dbf04eaad7c07a7d71788b5b4" category="cell">選択した構成と互換性のある関連ソリューションを選択して、エンドツーエンドビューを構築できます。</block>
+  <block id="2e80766098eb34af82b93df208cfbcbe" category="cell">もし</block>
+  <block id="b469ddc1b2bad5148648fe1d17486519" category="cell">選択した構成のコンポーネントをアップグレードまたはダウングレードできます。</block>
+  <block id="13dba24862cf9128167a59100e154c8d" category="cell">印刷</block>
+  <block id="68d5b3fc11e857e1c32f584c3efdd0f2" category="cell">設定の詳細を印刷できます。</block>
+  <block id="3c9681e304578d72f4fcc717594acf97" category="cell">ポリシーとガイドライン</block>
+  <block id="c7ac661a5b30b8b33e41f7666cf83630" category="cell">は、選択した構成に適用できるポリシーとガイドラインの詳細を示しています。ポリシーとガイドラインに新しい変更が追加された場合、その変更は黄色で強調表示され、30日間適用されます。ポリシーとガイドラインが削除された場合、変更は取り消しになります。[Policies and Guidelines]*フィールドに変更があった場合は、赤の「NEW」アイコンが表示されます。</block>
+  <block id="d7778d0c64b6ba21494c97f77a66885a" category="cell">フィルタ</block>
+  <block id="e2b5aa4cc556e932a2044c610346bd30" category="cell">「* Last Modified Between *」フィールドと「*」フィールドに適切な日付範囲を指定することで、特定の期間に変更された構成を検索できます。</block>
+  <block id="f4c6f851b00d5518bf888815de279aba" category="cell">脚注</block>
+  <block id="91d772a9c635e8c0866aee344754c015" category="cell">構成に関連するメモを提供します。</block>
+  <block id="d92a232846a2b6f240bb2eb35c9f7bb4" category="cell">行の比較</block>
+  <block id="3327f21bfe91c3080746e524d208e283" category="cell">2つの行を構成と比較できます。</block>
+  <block id="21b23c6fe7af0b50eee0642047379d4d" category="paragraph">検索結果には、各結果の構成の詳細が表示されます。検索結果の各行には、現在選択されているストレージソリューションに属する構成の詳細が表示されます。[End of Support]*状態の構成行はグレーで表示され、構成名の横のステータスは* EOS *または* PVR *と表示されます。</block>
+  <block id="b8d3d6fd3dd366569b26adf45da258c1" category="summary">Active IQ相互運用性アドバイザツールを使用すると、特定の条件を使用して検索するときに互換性レポートを生成できます。</block>
+  <block id="745011275a4b527af05f38dd17f2dfa5" category="doc">互換性を判断するためのActive IQ相互運用アドバイザツール</block>
+  <block id="2abe1b0b799ea6958ab05808dfd2e6f0" category="paragraph">Active IQ相互運用性アドバイザ*ツールを使用すると、特定の条件を使用して検索するときに互換性レポートを生成できます。</block>
+  <block id="4b95bd73f371d633944b277ea2f8940d" category="paragraph">次のいずれかの条件で検索できます。</block>
+  <block id="3460276ef9eb483d13aa31b870077a0d" category="list-text">シリアル番号</block>
+  <block id="c13733ab0cde1d7164208b013c7e85db" category="list-text">クラスタID</block>
+  <block id="9c88708a39e1e0d0de41fff6604be2e0" category="list-text">OneCollectジョブID</block>
+  <block id="ac602ad780aa2599010cea917dea5c94" category="paragraph">以前の検索条件の情報は* MyAutoSupport *で確認できます。</block>
+  <block id="5005324a60c28050430af25f8b9d4f52" category="summary">[ツールボックス]タブには、3つのユーザーカテゴリに分類された便利なツールのリストが表示されます。各ツールのリンクが表示されます。</block>
+  <block id="67414857279fd728c96de6f66ce60dcc" category="doc">Toolboxで使用可能なツール</block>
+  <block id="e6d0e1c8fc6a4fcf47869df87e04cd88" category="list-text">お客様</block>
+  <block id="b5fe3a41d32647f20f3b5ec96045d6d6" category="list-text">Active IQ</block>
+  <block id="f9be17421d77a57baae245776004d9fc" category="list-text">Config Advisor</block>
+  <block id="5fb5241db38fadaca7a0d40dbe186627" category="list-text">ConfigEdge</block>
+  <block id="da160308e3b4b4a80bf1b72b5bdbedb8" category="list-text">Hardware Universe</block>
+  <block id="c1e384c5e7f936ddf073862dee019398" category="list-text">Active IQ相互運用性アドバイザ</block>
+  <block id="b52e062fbdeb6bb20fccb9392805ce05" category="list-text">NetApp一般向けWebサイト</block>
+  <block id="9d2169c1c2855b78a7aeaa4f42d27dc7" category="list-text">NetAppサポートサイト</block>
+  <block id="ff331388ea55619596bcb6cf3a003112" category="list-text">1 回の収集</block>
+  <block id="922127e17a743afad1354adff731960d" category="list-text">ユニファイドパーサー</block>
+  <block id="fd6df34ee4e7642c02ced6012028f6b8" category="list-text">パートナー</block>
+  <block id="1b3537665f74d77bd14a7f35ea69a8f6" category="list-text">Field Portal</block>
+  <block id="1f18043048963944d416269d09c9fece" category="list-text">LatX</block>
+  <block id="600a7a2d38e685027888b112c9f09cfa" category="list-text">QuoteEdge</block>
+  <block id="c73fb565aacaf9d4d138b982953a3cf9" category="list-text">SmartSolve</block>
+  <block id="b657a86dd93f1cc3153d34c28b3f330a" category="list-text">Synergy</block>
+  <block id="e21a868bc0bf8e20cba1dc01e82dfb89" category="list-text">System Performance Modeler</block>
+  <block id="38dd88763ce898bd0065e24b9d906e36" category="list-text">Tech Refresh Tool</block>
+  <block id="5bd24680ba49ea2dbc7fa31ac43b9d75" category="list-text">NetApp内部</block>
+  <block id="657fd3eec6624217c3ad5de3744a69d2" category="list-text">即応性</block>
+  <block id="0fe4758d380c457915385cf7f8364526" category="list-text">バート"</block>
+  <block id="d0aaf413ea3c98b4488b0e80e2c716f1" category="list-text">EPIC</block>
+  <block id="e8b07ff317b9395c4210e4e6ee15527f" category="summary">Interoperability Matrix Toolの一般的な問題をいくつか確認しておく必要があります。</block>
+  <block id="374b1a86c0f09e71f4c247c57dd5f81f" category="doc">Interoperability Matrix Toolに関する問題のトラブルシューティング</block>
+  <block id="2d9d499f457f866cd4e692bee7369005" category="cell">問題</block>
+  <block id="7aebfa1e2291377e040de92d7f7f335f" category="cell">回避策</block>
+  <block id="4dfc53f36e1dec65c3576bb6b48febca" category="cell">Interoperability Matrix Toolをロードできない</block>
+  <block id="5f18bf7ed82966c701b57fd41f1a8c22" category="cell">ブラウザキャッシュをクリアし、新しいブラウザを開いてIMTにログインする必要があります。</block>
+  <block id="40b92c888e8f1d617bc09b10b894a451" category="cell">Interoperability Matrix Toolが停止する</block>
+  <block id="792f55b978d1fab7a11ede6fa50164cb" category="cell">これはネットワークの問題である可能性があります。ブラウザを更新してください。</block>
+  <block id="27bf486ce5cb0beff0bce7164447f6a7" category="cell">PIが目的のソリューションを推測していない</block>
+  <block id="6bcad9cdb3be41e28c3647d3b2deac6b" category="cell">*ソリューションカタログ*から適切なソリューションを選択するか、特定のコンポーネントを選択する必要があります。</block>
+  <block id="80a46d3b103de0b023943c2edf7d89f1" category="cell">HBA構成の* Refine Search Criteria *で別のプロパティを選択できません</block>
+  <block id="ccdaa17cccad4599b2f73f46abdd3db4" category="cell">HBAコンポーネントのチェックを外し、プロパティを選択する必要があります。</block>
+  <block id="4caf9ed28a5d7ce495d04434581b152b" category="cell">日次レポート生成で404エラーが表示される</block>
+  <block id="2fb40b8b208e17a91e19f13912277b9e" category="cell">毎日のcronジョブは22：00時間（太平洋標準時）に実行され、30分間はレポートを使用できません。</block>
+  <block id="18131773929f49e2d03333f846c8e8a9" category="cell">Interoperability Matrix Toolへの初回ログイン時にログイン認証に失敗する</block>
+  <block id="149b94e6c8c151a358440f89c8a75489" category="cell">Interoperability Matrix Toolのログインクレデンシャルを同期する必要があります。</block>
+  <block id="5ed3de7b6fcc4e15088e26acd0937748" category="cell">新しく追加されたコンポーネントは表示されません</block>
+  <block id="1319886e6d57f98ad8e8110beef9a17d" category="cell">4時間待ちます。コンポーネントは自動的に更新されます。</block>
+  <block id="70602a38ac0f4b98c770a6caae0aaf3a" category="summary">Interoperability Matrix Toolでは、要件を満たす構成の結果を表示およびエクスポートできます。</block>
+  <block id="60e7014e789de3f60ea4e17d64bb01b7" category="doc">Interoperability Matrix Toolの結果を理解して使用する</block>
+  <block id="b3583cd3c6ad27ace3e6abce443badd1" category="paragraph">Interoperability Matrix Toolでは、要件を満たす構成の結果を表示およびエクスポートできます。[結果]ページから、選択した構成と互換性のある関連ソリューションを選択することで、エンドツーエンドのビューを構築できます。また、* What If *機能を使用して、構成内のコンポーネントをアップグレードまたはダウングレードできます。</block>
+  <block id="b3265dbcd4101d08359925c13b7bf6bb" category="summary">これ以上の更新を受信する必要がある場合は、[Results]ページで構成のサブスクライブを解除できます。</block>
+  <block id="346753ac0751bbc24e863f483b63cc14" category="doc">サブスクライブ済み設定のサブスクライブ解除</block>
+  <block id="53a607950bfec5d5401aa3bfcb40d688" category="paragraph">これ以上の更新を受信したい場合は、*結果*ページから構成の登録を解除できます。</block>
+  <block id="dd9fbf502ce2472f202cfc7a5955bf4f" category="paragraph">*結果*ページから構成をサブスクライブしておく必要があります。</block>
+  <block id="d2e50314a1e8348725849e14a148c005" category="paragraph">設定のサブスクライブを解除するには</block>
+  <block id="2ff49414f9a59731963781d2fe599a7e" category="list-text">[結果]ページで、星印をクリックしてサブスクライブされた構成のサブスクライブを解除します。お気に入りリストから構成を削除すると、その構成は自動的に登録解除されます。</block>
+  <block id="6acf0028fdb5a7c7400ee13b800a5b80" category="summary">NetApp Interoperability Matrix Tool（IMT）はWebベースのアプリケーションです。IMTを使用すると、NetAppで指定された標準および要件を満たすNetApp製品およびコンポーネントの構成を検索できます。</block>
+  <block id="cc5fc314522b4b09cd2aa04bd3a3f35e" category="doc">「Can Not Find Config」の使用</block>
+  <block id="bb9e1f262e92df0b402da927acb28603" category="paragraph">必要な構成が見つからない場合は、* CA not find config?*機能を使用して、サポートチームに問題を報告できます。</block>
+  <block id="a1d312e83c32c0a40d094c17229a053a" category="paragraph">[構成が見つかりませんか?]メニューを開いて問題を報告してください。フォームに必要事項を入力して送信してください。</block>
+  <block id="6da8095a6390487f109a2a5846439157" category="summary">[通知]メニューには、現在の通知が表示されます。</block>
+  <block id="3c2db9c439c2e925fa947413bf4bf855" category="doc">通知の使用</block>
+  <block id="5d9015c8edb2c933a6e7caf177a1834e" category="paragraph">[通知]メニューには、現在の通知が表示されます。</block>
+  <block id="6c46011fcd0d7911c2b61f02efb52129" category="summary">[Refine Search Criteria]を使用すると、製品と互換性のある構成を検索できます。</block>
+  <block id="b4bbb09392c90b3947cdb432d3d27e30" category="doc">絞り込み検索条件を使用</block>
+  <block id="faa84239e1b2647e5bb0983d17bfc000" category="paragraph">*検索条件の絞り込み*では、製品と互換性のある構成を検索できます。さまざまなカテゴリからコンポーネントを選択することで、製品に適した構成にする構成を絞り込むことができます。</block>
+  <block id="1b9e32b8f904123d04a67fe606cceaa4" category="admonition">キーワード* Rack *および* Blade *は、* 4.x *の構成要素でのみ表示されます。</block>
+  <block id="dd593eb13f2c8a1efb1881fc710f04be" category="summary">Interoperability Matrix Toolでは、多くの行に非常によく似た情報が含まれているため、行の違いを手動で確認するのは面倒な作業になる可能性があります。</block>
+  <block id="20b3802386d1ed5c62f4a00e49eb179c" category="doc">行比較を使用</block>
+  <block id="ad118d64f1d46843db307e3019d5e24d" category="paragraph">Interoperability Matrix Toolでは、多くの行に非常によく似た情報が含まれているため、行の違いを手動で確認するのは面倒な作業になる可能性があります。Interoperability Matrix Toolには、2行を比較する機能が用意されています。</block>
+  <block id="069d0514bed019adffa6b98198fbcab3" category="paragraph">[Results]ページでは、各ソリューションに[Add to compare]ボタンまたは構成カードのヘッダーにアイコンが表示されます。</block>
+  <block id="7873eb76fd54f0be0cb18574a2939c9a" category="list-text">比較する構成を追加するには、*[構成要素の比較]*アイコンをクリックします。比較する構成は最大2つまで選択できます。</block>
+  <block id="ba5bfd55a92b4b1db47455be6a399f82" category="list-text">2つの行を比較するには、*設定コンポーネント比較*ボタンをクリックします。</block>
+  <block id="52363bd1c9aa306a445bffd05a0f61ec" category="paragraph">相違点は、オーバーレイ表示ボックスの*太字*フォントで強調表示されます。コンポーネントは、それぞれのコンポーネントタイプにグループ化されています。両方の行で同じコンポーネントは通常のフォントになります。2つのソリューション間で行を比較することはできません。</block>
+  <block id="9f8548f695e22969f89afa15c1a2e97d" category="summary">[Subscription]リンクでは、[Storage Solution]、[Category]、[Component]のいずれかにサブスクライブできます。特定のストレージソリューション、カテゴリ、またはコンポーネントをサブスクライブ済みの場合、サブスクライブ済みのソリューション、カテゴリ、またはコンポーネントに変更が加えられた場合にのみ、Eメールが送信されます。</block>
+  <block id="898833500a2198903c1c83dfc109c034" category="doc">サブスクリプションを使用</block>
+  <block id="d130c63d82164f0cdd641554e6c0065f" category="paragraph">[Subscription]リンクでは、*[Storage Solution]、[Category]、[Component]*にサブスクライブできます。特定のストレージソリューション、カテゴリ、またはコンポーネントをサブスクライブ済みの場合、サブスクライブ済みのソリューション、カテゴリ、またはコンポーネントに変更が加えられた場合にのみ、Eメールが送信されます。</block>
+  <block id="8db70aba3fbc9a6b95c9b38b17281ee4" category="paragraph">次のサブスクリプションに関するEメールが送信されます。</block>
+  <block id="6aaaa6ee63ae61b3ccd3449b9db168c8" category="list-text">*ストレージソリューション*：ステータスの更新に変更が加えられた場合、関連付けまたは関連付け解除されたカテゴリ、追加または削除された構成。</block>
+  <block id="4f679bca94bf2251743828a60756af66" category="list-text">*カテゴリ*:コンポーネントがカテゴリに追加または削除されたとき。</block>
+  <block id="d54b1a2758b7e5ba3933627fd870466e" category="list-text">*コンポーネント*:コンポーネントの表示名またはコンポーネントの状態が変更された場合。</block>
+  <block id="32e8c8034cc53d4add255eaca611041d" category="admonition">選択した頻度タイプに応じて、Eメールが送信されます。2つの周波数タイプは次のとおりです。</block>
+  <block id="644800f75dbb0533a7118b75eade12e4" category="list-text">即時：サブスクライブしたソリューション、カテゴリ、またはコンポーネントに変更が加えられた場合、すぐにEメールが送信されます。</block>
+  <block id="b14aa29ea1ad370e9378af29d93cfa7d" category="list-text">ダイジェスト:購読しているソリューション、カテゴリ、コンポーネントに加えられたすべての変更を反映したメールが7日ごとに送信されます。</block>
+  <block id="0e2a7801346c9a649707e972c3926306" category="summary">検索条件でサポートされている可能性のあるすべての構成を検索できます。</block>
+  <block id="827ad910b151e2ee60d11bfee3d1c207" category="doc">What Ifを使用</block>
+  <block id="3021a2b1e541ffbc51c584c2e7c27694" category="paragraph">検索条件でサポートされている可能性のあるすべての構成を検索できます。What If *を使用して、選択した構成のコンポーネントをアップグレードまたはダウングレードし、互換性を調べることができます。</block>
+  <block id="e8b2d018252ed6bec2cfc70d4cbfa7e1" category="inline-xref-macro">問題の報告</block>
+  <block id="bdc78183d26b19d7860059ca9bce0bdf" category="paragraph">目的の構成が見つからない場合は、*[フィードバック]*をクリックして問題を報告してください。詳細については、を参照してください <block ref="373fef4cf725e9b952ca544386721376" category="inline-xref-macro-rx"></block>。</block>
+  <block id="2ca70e123444aa174b92f33c622c8ad3" category="summary">[Policies and Guidelines]ページには、ソリューションに関する最新の情報とガイダンスがすべて記載されています。</block>
+  <block id="47af5fe6fb8ced5867f5b5b763b4acb6" category="doc">ポリシーとガイドラインを確認する</block>
+  <block id="151536ba7a317231e3d5fd4d5883c17c" category="list-text">[Playground]ページの*[Policies &amp; Guidelines]*をクリックします。[ポリシーとガイドライン]ページが開きます。</block>
+  <block id="7a3e4c7c6f1988fac1d5f9d707e486fd" category="list-text">ソリューションの最新ニュース、ガイダンス、ポリシー情報、著作権を確認します。[プレイグラウンド]ページでは、ソリューションに固有の他のポリシーやガイドラインを表示するようにソリューションを変更できます。</block>
+  <block id="fd0b17648cbb96f58d57667a2638c245" category="list-text">ページを閉じて*プレイグラウンド*ページに戻ります。</block>
+  <block id="2f626e6c5a6afb5eb305cba0328658ec" category="summary">Welcome to the IMTページで、保存された検索条件をロードして最近の検索を表示できます。</block>
+  <block id="51bc1d62e0da280cc69969013d619869" category="doc">最近の検索条件の表示</block>
+  <block id="24e70611d99edf18b600cc25d967fb1e" category="paragraph">[* Welcome to the IMT *]ページで、保存された検索条件をロードして最近の検索を表示できます。</block>
+  <block id="d36179ee552c8cd7f2138babd00e9b23" category="paragraph">最近の検索を保存しておく必要があります。</block>
+  <block id="f5903f4247c226fe311fe85039ee08b1" category="list-text">[保存済み検索]*をクリックします。</block>
+  <block id="5e78b03368007e0be6e2f7b2e64bc287" category="list-text">最近保存した検索を表示するには、*[最近の検索]*タブを選択します。最近の検索結果が表示されます。</block>
+  <block id="1f70cd49a7cc95ade94bc142d2f26097" category="list-text">保存されている特定の検索条件を表示するには、*検索条件*タブを選択します。保存した条件が表示されます。</block>
+  <block id="e9c7f082c18ebfe8f5e5964edf7ec988" category="summary">[詳細検索（Advanced Search）]*を使用してさまざまな構成要素を検索し、検索条件から構成要素を追加または削除できます。</block>
+  <block id="fa8f8ea5e084a3d02f08c39c744b591d" category="doc">高度な検索の操作</block>
+  <block id="81063a953934d8cb5ee6f81fe405c8b1" category="paragraph">[詳細検索（Advanced Search）]*を使用してさまざまな構成要素を検索し、検索条件から構成要素を追加または削除できます。*詳細検索*ウィンドウ内の検索テキストボックスを使用して、コンポーネントを検索できます。</block>
+  <block id="6756f030171d226f3144040663767c49" category="paragraph">必要に応じて、次のフィルタを使用できます。</block>
+  <block id="98b1c17c17aa647792153499156deb5d" category="list-text">[限定サポートコンポーネントを表示しない]*を選択すると、サポートが限定されたコンポーネントが結果に表示されなくなります。</block>
+  <block id="39b498afb424201be730ced244bee6c3" category="list-text">バージョンがサポートされているコンポーネントが結果に表示されないようにするには、*[Do not show EOVS components]*を選択します。</block>
+  <block id="0a878e7c0f88ad1e8e7e90459b61cb42" category="paragraph">このページから、*コンポーネントエクスプローラ、保存された条件またはコンフィギュレーションのロード*、または*検索アシスタント*を使用することもできます。</block>
+  <block id="1d485407254c2b22c40dd2026cff46c6" category="doc">リストと検索の操作</block>
+  <block id="5e3c4ba62e19206dcf657ad7b622bafc" category="paragraph">構成要素のリストと検索（List and Find）作業領域では、構成要素に最適な構成を表示できます。</block>
+  <block id="027b6d13735ce68325fbf3b69239bee8" category="paragraph">左側の*コンポーネントエクスプローラ*パネルを使用して、選択したコンポーネントの構成を表示します。右側のパネルにはソリューションが表示されます。各タブには、ストレージソリューションと、選択したコンポーネントを使用する構成の数が表示されます。List and Find Component Workare*の緑の* Logic *トグルボタンがまたはに設定されている場合、単一のコンポーネントを含む構成を持つソリューションを検索できます。緑の*ロジック*トグルボタンが*および*に設定されている場合、選択したすべての構成要素を含む構成を含むソリューションを検索できます。同じコンポーネントタイプ内で複数のコンポーネントが選択されている場合、ボタンは*または*に設定されます。</block>
+  <block id="9f2c7bb4e0e0399fff157d283ef3cf20" category="list-text">ホームページで*[リストと検索]*をクリックします。</block>
+  <block id="897c772a7e35dc75797920a141aedb90" category="list-text">*コンポーネントエクスプローラ*でコンポーネント名を検索するか、選択範囲を展開して*リストとコンポーネントの検索作業領域*にコンポーネントを追加します。</block>
+  <block id="45bd03466f004ddb3d958afadbf1b92a" category="admonition">[リスト（List）]および[コンポーネントの検索（Find Component Workarea）]*にコンポーネントを追加した後、[次へ（Next）]*をクリックする前に、特定の有効なソリューションを選択できますExcelスプレッドシートまたはPDFでは、一度に1つのソリューションに対して最大3000行をエクスポートすることもできます。</block>
+  <block id="7b20b2bbc03b292378be70bd74c67006" category="list-text">[次へ]*をクリックすると、*[結果]*ページに複数のソリューションの構成でコンポーネントが使用されている場所が表示されます。コンポーネントのリストに最も互換性のある構成が表示されます。</block>
+  <block id="127e34472d9dcb8e7825d453085448c7" category="summary">ONTAPバージョンとフラッシュまたはファブリックストレージバージョンの組み合わせの互換性を確認します。関連するコンポーネントごとに互換性検索をさらに絞り込むことができます。</block>
+  <block id="45867ddf970470aa7e77f248425c75e6" category="doc">ONTAP SANホストの簡易検索との連携</block>
+  <block id="61f451665f535dca2ca857c688b82ed8" category="paragraph">ONTAPバージョンとフラッシュまたはファブリックストレージバージョンの組み合わせの互換性を確認します。関連する各コンポーネントの互換性検索をさらに絞り込むことができます。</block>
+  <block id="9c1a71cd4de013875c9b459346958efa" category="paragraph">SAN上のフラッシュストレージデバイスまたはファブリックストレージデバイスと、使用するONTAPバージョンおよびその他の関連コンポーネントとの互換性を確認できます。*エキスパートビュー*または*初心者ビュー*のいずれかを選択できます。</block>
+  <block id="40b1e4a59a1bc5c85695af0756b84ca0" category="admonition">[デフォルトに設定]*オプションをクリックすると、IMTを開くたびに* ONTAP SAN Host Simplified *検索が自動的に開きます。</block>
+  <block id="6ae251336f26dbfeacf40f8af4055800" category="list-text">ホームページで* ONTAP SAN Host Simplified *をクリックします。</block>
+  <block id="9f350ade443152c2c85a538bbade24e8" category="list-text">使用するビューを選択します。</block>
+  <block id="994ad29241d78e9164fabb5ffaad044c" category="list-text">詳細な条件オプションを表示するには、*エキスパートビュー*をクリックします。</block>
+  <block id="fc2d52b231b65209de6b904e58054728" category="list-text">[ガイド付き表示（Guided view）]*をクリックして、簡略化された条件オプションとガイド付き条件オプション</block>
+  <block id="d0faa1de14e7c4d8db450ac5951593f5" category="list-text">[初心者向けビュー]*で、表示されている検索条件オプションを選択します。</block>
+  <block id="7d2fe68c49fe99a361082b6364a11e6c" category="list-text">選択せずに次の構成部品に移動するには、*スキップ*をクリックします。必要に応じて*[スキップ解除]*をクリックすると、コンポーネントに戻ることができます。</block>
+  <block id="c2e9533c50e6623c0b26145dfe971d7d" category="list-text">完了したら、*[結果を表示]*をクリックして、検索条件でサポートされている構成を確認します。</block>
+  <block id="041463b623ea41ae4843a90154289822" category="list-text">*エキスパートビュー*で、さまざまな構成要素に使用する検索条件を選択します。選択するたびに残りの条件が調整されるため、左から右に移動することをお勧めします。コンポーネントごとに選択する必要はありません。</block>
+  <block id="b622e80fb613cd93f846f78712c55f21" category="list-text">また、* ONTAP SAN Host Simplified *の一部として、次の操作を実行することもできます。</block>
+  <block id="0d945fd644ef263977762f0180076e9c" category="list-text">ブックアイコンをクリックすると、選択したポリシーとガイドラインが表示されます。</block>
+  <block id="ac2a3ee5cc0c6e8ac6d6904972485028" category="list-text">チェーンアイコンをクリックすると、他のユーザーと共有できる共有可能なURLが生成されます。</block>
+  <block id="59e0d9789f64ece5977e7f940ba53af0" category="list-text">[元に戻す（Undo）]アイコンを選択すると、すべての選択がクリアされ、再度開始されます。</block>
+  <block id="ac370db43df7302f140520247cd911d0" category="list-text">結果画面では、次の操作を実行できます。</block>
+  <block id="5c9aecea84270e44fc9ec4a44d8badd9" category="list-text">構成に関する詳細、アラート、および通知情報を表示します。</block>
+  <block id="6d09d563ca5efa55ac958df61c73bfb6" category="list-text">この検索をお気に入りにするには、星のアイコンをクリックします。設定に名前を付けて説明します。これは保存された検索になり、*保存された検索*メニューから表示できます。ここで構成をサブスクライブすることもできます。これにより、変更が行われたときに通知が送信されます。購読している場合は、*購読*メニューにも表示されます。</block>
+  <block id="a61fbf0d1c3ed9c2a1c08cb05d97e3a9" category="list-text">[Build End to End View]にカーソルを合わせると、サポートされているその他のソリューションが表示されます。</block>
+  <block id="19bfe090a6a2c5fb7b287f5d7c17cd5e" category="list-text">構成部品を変更し、他の互換性オプションを確認するには、* What If *をクリックします。</block>
+  <block id="e1075a632aa2a4299a5ce1d7a1eb1cc1" category="summary">環境設定リストを使用して、カテゴリの環境設定を検索し、お気に入りのカテゴリを保存できます。</block>
+  <block id="bea6af0d35e7d9db77ca5a88081ab11f" category="doc">環境設定の操作</block>
+  <block id="6e965a953c3c414acf42bd172897202b" category="paragraph">*環境設定リストと検索カテゴリの環境設定*メニューを開くと、*リストと検索カテゴリの環境設定*ページが開き、お気に入りのカテゴリを*リストと検索コンポーネントエクスプローラ*リストの上部に保存できます。</block>
+  <block id="06bd3b66ef75cd45a080babe715be077" category="paragraph">お気に入りのカテゴリを選択するには、* List and Find Category Preferences *ページを使用します。これらのカテゴリは、*リストおよび検索コンポーネントエクスプローラ*リストの上部に表示され、赤でボックス化されています。</block>
+  <block id="9971253c2d0d9e64cbd29574a229f3a7" category="list-text">ホームページで*[環境設定][リスト]および[カテゴリの検索]*をクリックします。[List and Find Category Preferences]ページが開きます。</block>
+  <block id="ab543d4e89323d7be3fb8199907b80cf" category="list-text">お気に入りとして保存するカテゴリを選択します。リストをスクロールしたり、*[検索カテゴリ]*フィールドでカテゴリを検索したりできます。必要な数のカテゴリを選択できます。</block>
+  <block id="ae88ce9b5bb2f1d6426908fbdced0f18" category="list-text">設定を保存するには、*[保存]*をクリックします。必要に応じて、*リセット*をクリックして既存の環境設定リストをクリアできます。</block>
+  <block id="69d1c0084e5b27989da1844d88af2a13" category="list-text">環境設定を表示するには、*[ホーム]*をクリックし、*[リストと検索]*をクリックします。お気に入りのカテゴリは、赤い枠で囲まれた* Component Explorer *の上部に表示されます。</block>
+  <block id="fb156ce54b4ca2da822edd8aa40ad956" category="summary">OUでは、製品要件を満たす構成の結果を表示およびエクスポートできます。</block>
+  <block id="4830cad474537506142af149acab443e" category="doc">結果の操作</block>
+  <block id="4d82c4a00337f4f8893787f478baed58" category="paragraph">製品要件を満たす構成の結果を表示およびエクスポートできます。</block>
+  <block id="7a7cbe01895fca99b25cc52488dfdfb0" category="paragraph">[結果]ページから、選択した構成と互換性のある関連ソリューションを選択することで、エンドツーエンドのビューを構築できます。</block>
+  <block id="00d8407216cc7cfbe0b75371c9693434" category="admonition">予期した結果が表示されない場合は、フィルタをクリアします。</block>
+  <block id="b48b202726bb5c6829fc6fd412762191" category="summary">検索条件と構成を保存および更新できます。</block>
+  <block id="287cea239d29e9cedf992caa172af964" category="doc">保存された条件、最近の検索、および構成を操作する</block>
+  <block id="ceed8f9438f1c40008444f5ef0980d00" category="paragraph">検索条件と構成を保存および更新できます。保存した条件と構成をロード、編集、および削除できます。</block>
+  <block id="2c9388e22e8d53e6cc4d40b002ce8372" category="summary">検索アシスタントを使用すると、検索条件に応じて互換性のある構成を探索するための提案が提供されます。</block>
+  <block id="4478096ab411283fd2e6a8520fc4496f" category="doc">検索アシスタントの操作</block>
+  <block id="4987cd9246140609c39ded884952d01d" category="paragraph">*検索アシスタント*は、入力した検索条件に応じて、互換性のある構成を探索するための提案を提供します。検索アシスタント*セクションには、よく使用されるカテゴリが表示されます。このカテゴリから、検索条件に含める構成要素を選択できます。選択した構成要素に応じて、検索アシスタントに互換性のある構成要素とソリューションが表示されます。</block>
+  <block id="08e5e0ba24ad17a936307bab2f88e264" category="paragraph">入力した検索条件が正しくなく、Interoperability Matrix Tool（IMT）で結果が見つからない場合、*検索アシスタント*に候補が表示されて検索条件を修正します。</block>
+  <block id="ec537610e86351d19225db2784bf191f" category="summary">検索テキストボックスを使用して、コンポーネント、ソリューション、カテゴリ、および構成を検索できます。入力したテキストに応じて、検索テキストボックスに検索条件に含めることができる一致候補が表示されます。</block>
+  <block id="27e661d01e996755ff6343e36db32eca" category="doc">検索テキストボックスの操作</block>
+  <block id="414c2ebd5dd0c5ec528d47cd4e692033" category="summary">さまざまなストレージソリューションを検索したり、検索条件にソリューションを追加または削除したりできます。[ソリューションの検索]ページ内の検索テキストボックスを使用して、特定のソリューションを検索できます。アクセス頻度の高いソリューションは、[ソリューション検索]フィールドに表示されます。</block>
+  <block id="7cca85d1f23f3abdc04fb438461cad0f" category="doc">ソリューション検索の操作</block>
+  <block id="df46242fb61bcf1a60e71305db81b7d9" category="paragraph">さまざまなストレージソリューションを検索したり、検索条件にソリューションを追加または削除したりできます。[ソリューションの検索]ページ内の検索テキストボックスを使用して、特定のソリューションを検索できます。アクセス頻度の高いソリューションは、*[ソリューション検索]*フィールドに表示されます。</block>
+  <block id="57db59ac9c6d6c1ace7a61d1f1391bc7" category="paragraph">[ソリューション検索]ページには、[ソリューションカタログ]タブと[マッピングアシスタント]タブがあります。[マッピングアシスタント]タブで、*[カテゴリ別マップ]*または*[ソリューション別マップ]*のいずれかを選択すると、選択したソリューションのカテゴリを表示できます。</block>
+  <block id="1cafef499933520a9e86177fcb165e06" category="section-title">ソリューションカタログ</block>
+  <block id="7fae33de53bb2a5db04be163601aa253" category="paragraph">*ソリューションカタログ*タブでは、フィルタバーを使用して*フィルタソリューション*を実行できます。</block>
+  <block id="7f757fee6e4d6aaedaccbfee2a9c5443" category="paragraph">また、必要に応じて*[Include PVR Required]、[EOS]、[Obsolete configurations]*を選択することもできます。</block>
+  <block id="a61f1f1e80b63ed74149794321258708" category="section-title">マッピングアシスタント</block>
+  <block id="522f2a5728bdde0e1e796e235a6db1d9" category="paragraph">次の2種類の作業領域モードがあります。</block>
+  <block id="8bc84f3532dc0826e4fe9954b23a9e7a" category="list-text">*カテゴリ別マップ*：リストされたカテゴリからカテゴリを選択し、選択したカテゴリを含むすべてのソリューションを有効にすることができます。有効なソリューションはリストの一番上に表示されます。1つまたは複数の有効なソリューションを選択して追加できます。[カテゴリの検索]テキストボックスを使用して、特定のカテゴリを検索できます。</block>
+  <block id="83642ee81bca51efd5a8505c5dbb71ae" category="list-text">*ソリューション別マップ*：リストされたソリューションからソリューションを選択し、リストの一番上に有効なソリューションを表示して、選択されたソリューションを含むすべてのソリューションを有効にすることができます。1つまたは複数の有効なソリューションを選択して追加できます。[検索ソリューション]テキストボックスを使用して、特定のカテゴリを検索できます。</block>
+  <block id="205b32aced3513c0bdb9dfdb8cbd86a4" category="paragraph">完了すると、*[選択したストレージソリューション]*で選択した項目が表示されます。*[View Refine Search Criteria]*または*[Skip to Results]*をクリックします。</block>
+  <block id="7b830318624b05f50d5376aa150520a8" category="section-title">ガイド付き検索</block>
+  <block id="0b4078bb132552033ef900528e6773cb" category="paragraph">*ガイド付き検索*は、ソリューションを選択すると有効になります。*ガイド付き検索*には、条件をさらに絞り込むためのガイド付きワークフローが用意されています。</block>
+  <block id="c8d8164a68d29958f434cb28bd55364c" category="list-text">ホームページの*[ソリューション検索]*をクリックします。</block>
+  <block id="c5d1a4e5b85f3b8338aa0a7306f6f126" category="list-text">[エキスパートビュー（Expert view）]*をクリックすると、詳細な条件オプションが表示されます。</block>
+  <block id="77df4fedf30b095745c71ad8a5d6dbe1" category="list-text">[ガイド付きビュー（Guided view）]*をクリックして、簡略化された条件とガイド付き条件のオプションを表示</block>
+  <block id="92966aaa8e23f9c38da8793b0ed456e4" category="list-text">初心者ビュー*で、表示されている検索条件オプションを選択します。</block>
+  <block id="717ada056e3a3ab33201e93190a96d7b" category="list-text">最初の5つを選択したら、*[詳細を表示]*をクリックして、検索条件の絞り込みを続行します。前のビューに戻るには、*[表示を減らす]*をクリックします。</block>
+  <block id="7381b6af8540464ba572c1a41d6bbece" category="list-text">また、*ソリューション検索*の一部として、次の操作を実行することもできます。</block>
+  <block id="22ccf134d726013f225f30e415350afd" category="list-text">チェーンアイコンをクリックすると、他のユーザーと共有できる共有可能なURLが生成されます。</block>
+  <block id="2a255f76e7a4e41ac5208b9f9c1e14bf" category="list-text">[元に戻す（Undo）]アイコンを選択すると、すべての選択がクリアされ、再度開始されます。</block>
+  <block id="7d3548071d43ddbb5a114244d649cc72" category="list-text">この検索をお気に入りにするには、星のアイコンをクリックします。設定に名前を付けて説明します。これは保存済み検索になり、[保存済み検索（Saved Search）]メニューから表示できます。ここで構成をサブスクライブすることもできます。これにより、変更が行われたときに通知が送信されます。購読している場合は、*購読*メニューにも表示されます。</block>
+  <block id="cbb5df1a2f14206cda92df2eee9ad768" category="sidebar">共通検索の実行</block>
+  <block id="1f2912ea316c2e90ba1fb996bce7c786" category="sidebar">保存された検索機能</block>
+  <block id="c9db0e0f049034dde7c772dfb13bbb54" category="sidebar">Can Not Find Configを使用</block>
+</blocks>

@@ -1,0 +1,30 @@
+---
+sidebar: sidebar 
+permalink: working-with-preferences.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, list, find, component, explorer 
+summary: 環境設定リストを使用して、カテゴリの環境設定を検索し、お気に入りのカテゴリを保存できます。 
+---
+= 環境設定の操作
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+*環境設定リストと検索カテゴリの環境設定*メニューを開くと、*リストと検索カテゴリの環境設定*ページが開き、お気に入りのカテゴリを*リストと検索コンポーネントエクスプローラ*リストの上部に保存できます。
+
+
+
+== タスクの内容
+
+お気に入りのカテゴリを選択するには、* List and Find Category Preferences *ページを使用します。これらのカテゴリは、*リストおよび検索コンポーネントエクスプローラ*リストの上部に表示され、赤でボックス化されています。
+
+
+
+== 手順
+
+. ホームページで*[環境設定][リスト]および[カテゴリの検索]*をクリックします。[List and Find Category Preferences]ページが開きます。
+. お気に入りとして保存するカテゴリを選択します。リストをスクロールしたり、*[検索カテゴリ]*フィールドでカテゴリを検索したりできます。必要な数のカテゴリを選択できます。
+. 設定を保存するには、*[保存]*をクリックします。必要に応じて、*リセット*をクリックして既存の環境設定リストをクリアできます。
+. 環境設定を表示するには、*[ホーム]*をクリックし、*[リストと検索]*をクリックします。お気に入りのカテゴリは、赤い枠で囲まれた* Component Explorer *の上部に表示されます。
+

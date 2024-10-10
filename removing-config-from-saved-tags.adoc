@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: removing-config-from-saved-tags.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 不要な保存済み設定を削除または更新できます。 
+---
+= 保存されたタグから構成を削除
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+不要な保存済み設定を削除または更新できます。
+
+
+
+== タスクの内容
+
+結果からコンフィギュレーションを保存した場合は、参照のために不要になったコンフィギュレーションを削除できます。
+
+
+
+== 手順
+
+. 黄色の星印アイコンをクリックして、保存されている設定を削除または更新します。
+. 保存した設定を削除するには、*[削除]*をクリックします。ポップアップの削除ボタンをクリックすると、星のアイコンが黄色から白に変わります。
+

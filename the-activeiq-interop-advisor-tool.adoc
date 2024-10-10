@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: the-activeiq-interop-advisor-tool.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Active IQ相互運用性アドバイザツールを使用すると、特定の条件を使用して検索するときに互換性レポートを生成できます。 
+---
+= 互換性を判断するためのActive IQ相互運用アドバイザツール
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Active IQ相互運用性アドバイザ*ツールを使用すると、特定の条件を使用して検索するときに互換性レポートを生成できます。
+
+次のいずれかの条件で検索できます。
+
+* シリアル番号
+* クラスタID
+* OneCollectジョブID
+
+
+以前の検索条件の情報は* MyAutoSupport *で確認できます。

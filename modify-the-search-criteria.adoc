@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: modify-the-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: '[Refine Search Criteria]ページでは、検索条件を変更して、ソリューション、コンポーネント、またはカテゴリを条件に追加できます。' 
+---
+= 検索条件の変更
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+[*Refine Search Criteria*]ページでは、検索条件を変更して、ソリューション、コンポーネント、またはカテゴリを条件に追加できます。
+
+
+
+== 手順
+
+. [Refine Search Criteria]*ページで、*[Change Criteria]*をクリックします。
+. 検索条件ページで、検索テキストボックスを使用してソリューション、コンポーネント、またはカテゴリを追加できます。
+. [次へ]*をクリックすると、*[検索条件の絞り込み]*ページに互換性のある構成が表示されます。
+

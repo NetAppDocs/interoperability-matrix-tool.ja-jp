@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: refine-serach-page-to-verify-compatibility.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 'Interoperability Matrix Toolでは、*[Refine Search Criteria]*ページから、製品と互換性がある構成を確認できます。' 
+---
+= [Refine Search Criteria]ページで互換性を確認します。
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Interoperability Matrix Toolでは、*[Refine Search Criteria]*ページから、製品と互換性がある構成を確認できます。このページの構成結果を製品に適した構成に絞り込むことができます。
+
+入力した条件にサポートされている構成がある場合にのみ、最初の検索条件ページから*検索条件の絞り込み*ページに移動できます。[Refine Search Criteria]ページは、次の2つのペインに分かれています。
+
+* *検索条件*:検索条件に追加されたソリューション、コンポーネント、フィルタが表示されます。初期検索条件を変更して、必要な構成結果を表示できます。[条件の変更（Change Criteria）]をオンにすると、[検索条件（Search Criteria）]ページに戻り、最初の検索条件を変更できます。[動的フィルタ（Dynamic Filtering）]*タブをチェックすると、構成要素間の互換性をすぐに確認できます。[動的フィルタ（Dynamic Filtering）]タブのチェックを外して複数の構成要素を追加し、*[更新（Update）]*[カウント（count）]をクリックします。[別の方法を試す]タブをオンにすると、ホームページに移動できます。
+* *検索条件の絞り込み*:さまざまなカテゴリのコンポーネントのリストを表示します。このペインに表示されるカテゴリは、検索条件と互換性のある構成によって異なります。
++
+** 最初の検索条件にソリューションを含めた場合は、Refine * Search Criteria *ページでその特定のカテゴリからコンポーネントを選択したり、他のカテゴリからコンポーネントを選択したりできます。
+** 初期検索条件に特定のコンポーネントを含めた場合、*検索条件の絞り込み*ページで初期検索条件に含まれるコンポーネントの選択を解除することはできませんが、他のカテゴリから追加のコンポーネントを選択することはできます。
+
+
+
+
+各カテゴリでは、フィルタアイコンを使用して検索テキストボックスを表示し、特定のコンポーネントを検索できます。*検索条件*ペインで構成部品の選択をリセットまたはクリアするには、*すべてクリア*をクリックします。
+
+さまざまなカテゴリから選択したコンポーネントに応じて、構成結果の数が異なる場合があります。選択するコンポーネントが多いほど、Interoperability Matrix Toolで検索結果が絞り込まれ、製品に必要な構成を表示できます。

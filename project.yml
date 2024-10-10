@@ -1,0 +1,148 @@
+---
+settings:
+  name: Interoperability Matrix Tool
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  langs: ja-jp,us-en,ko-kr,zh-cn,zh-tw,de-de,es-es,fr-fr,it-it
+sidebar:
+  entries:
+  - title: Interoperability Matrix Toolの概要
+    url: "/index.html"
+  - title: 共通検索の実行
+    url: "/performing-common-searches.html"
+    entries:
+    - title: ONTAP SANホストの簡易検索との連携
+      url: "/working-with-ontap-san-host-solutions-search.html"
+    - title: ソリューション検索の操作
+      url: "/working-with-solution-search.html"
+    - title: リストと検索の操作
+      url: "/working-with-list-and-find.html"
+    - title: 高度な検索の操作
+      url: "/working-with-advanced-search.html"
+  - title: Interoperability Matrix Toolを確認する
+    url: "/exploring-the-interoperability-matrix-tool.html"
+    entries:
+    - title: サブスクリプションを使用
+      url: "/using-subscription.html"
+    - title: 通知の使用
+      url: "/using-notifications.html"
+    - title: 保存された検索機能
+      url: "/saved-search-capabilities.html"
+    - title: Can Not Find Configを使用
+      url: "/use-cannot-find-config.html"
+    - title: Toolboxで使用可能なツール
+      url: "/tools-available-in-toolbox.html"
+    - title: ソリューションレポート
+      url: "/solution-reports.html"
+    - title: 環境設定の操作
+      url: "/working-with-preferences.html"
+  - title: Interoperability Matrix Toolの検索ワークフロー
+    url: "/interoperability-matrix-tool-search-workflow.html"
+    entries:
+    - title: 検索アシスタントの操作
+      url: "/working-with-search-assistant.html"
+    - title: 検索テキストボックスの操作
+      url: "/working-with-search-text-box.html"
+    - title: 絞り込み検索条件を使用
+      url: "/using-refine-search-criteria.html"
+    - title: 製品に対応する互換性のあるホストオペレーティングシステムを検索します
+      url: "/finding-compatible-host-os.html"
+    - title: 製品と互換性のあるWindows Serverホストを検索する
+      url: "/finding-compatible-windows-server.html"
+    - title: HBAカードとの互換性の確認
+      url: "/finding-compatible-with-hba-cards.html"
+    - title: 特定の構成を検索し、製品のアップグレードまたはダウングレードのサポート状況を確認する
+      url: "/finding-specific-config-and-checking-for-product-upgrade.html"
+    - title: 結果の操作
+      url: "/working-with-results.html"
+    - title: 製品間でエンドツーエンドの互換性を構築
+      url: "/building-end-to-end-compatibility.html"
+    - title: ポリシーとガイドラインを確認する
+      url: "/viewing-policies-and-guidelines.html"
+    - title: What Ifを使用
+      url: "/using-what-if.html"
+    - title: 互換性を判断するためのActive IQ相互運用アドバイザツール
+      url: "/the-activeiq-interop-advisor-tool.html"
+    - title: 問題を報告する
+      url: "/reporting-an-issue.html"
+  - title: 検索条件を定義して入力する
+    url: "/defining-and-entering-the-search-criteria.html"
+    entries:
+    - title: 検索条件にコンポーネントを追加
+      url: "/add-components-to-search-criteria.html"
+    - title: 検索条件にソリューションを追加
+      url: "/add-solutions-to-search-criteria.html"
+    - title: 検索条件に構成名を追加する
+      url: "/add-config-names-to-search-criteria.html"
+  - title: 保存された条件、最近の検索、および構成を操作する
+    url: "/working-with-saved-criteria-recent-searches-and-config.html"
+    entries:
+    - title: 検索条件を保存する
+      url: "/saving-the-search-criteria.html"
+    - title: 保存した検索条件を他のユーザーと共有
+      url: "/saved-search-criteria-sharing-with-other-users.html"
+    - title: 保存した条件をロードします
+      url: "/loading-the-saved-criteria.html"
+    - title: 保存した条件の編集
+      url: "/editing-saved-criteria.html"
+    - title: 保存した条件の削除
+      url: "/deleting-saved-criteria.html"
+    - title: 構成を保存
+      url: "/saving-configuration.html"
+    - title: 構成にサブスクライブ
+      url: "/subscribing-to-config.html"
+    - title: サブスクライブ済み設定のサブスクライブ解除
+      url: "/unsubscribe-the-subscribed-config.html"
+    - title: 保存されている設定のロード
+      url: "/loading-the-saved-config.html"
+    - title: 保存されたタグから構成を削除
+      url: "/removing-config-from-saved-tags.html"
+    - title: タグ名の削除
+      url: "/deleting-tag-names.html"
+    - title: 最近の検索を保存する
+      url: "/saving-a-recent-search.html"
+    - title: 最近の検索条件の表示
+      url: "/viewing-recent-search-criteria.html"
+  - title: 検索条件の絞り込みを使用して互換性を検索する
+    url: "/finding-the-compatibility-using-the-refine-search-criteria.html"
+    entries:
+    - title: "[Refine Search Criteria]ページで互換性を確認します。"
+      url: "/refine-serach-page-to-verify-compatibility.html"
+    - title: カテゴリへのフィルタの適用
+      url: "/apply-filters-to-categories.html"
+    - title: 検索条件の変更
+      url: "/modify-the-search-criteria.html"
+    - title: URLの生成
+      url: "/generate-the-url.html"
+  - title: Interoperability Matrix Toolの結果を理解して使用する
+    url: "/understanding-and-using-imt-results.html"
+    entries:
+    - title: サポートされる構成検索
+      url: "/supported-config-searches.html"
+    - title: 行比較を使用
+      url: "/using-row-compare.html"
+    - title: 選択した構成のエンドツーエンドビューを作成する
+      url: "/create-end-to-end-view-for-selected-config.html"
+    - title: 構成結果のエクスポート
+      url: "/export-config-results.html"
+  - title: What Ifの使用方法
+    url: "/how-to-use-what-if.html"
+    entries:
+    - title: アップグレードまたはダウングレードするコンポーネントを選択
+      url: "/select-component-to-upgrade-or-downgrade.html"
+  - title: ストレージソリューション、カテゴリ、またはコンポーネントのサブスクライブ
+    url: "/subscribing-to-storage-solutions-categories-or-categories.html"
+    entries:
+    - title: ストレージソリューションのサブスクライブ
+      url: "/subscribing-to-storage-solutions.html"
+    - title: カテゴリのサブスクライブ
+      url: "/subscribing-to-categories.html"
+    - title: コンポーネントにサブスクライブ
+      url: "/subscribing-to-components.html"
+  - title: Interoperability Matrix Toolに関する問題のトラブルシューティング
+    url: "/troubleshooting-interoperability-matrix-tool-issues.html"
+  - title: 詳細情報
+    url: "/get-more-information.html"

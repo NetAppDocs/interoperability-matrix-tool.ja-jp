@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: deleting-tag-names.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: タグ名を削除すると、保存されている設定を削除できます。 
+---
+= タグ名の削除
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+保存されている構成のタグ全体を削除できます。
+
+
+
+== タスクの内容
+
+タグ名を削除すると、保存されている設定を削除できます。タグ名を削除すると、それらのタグに関連付けられているすべての設定も削除されます。
+
+
+
+== 手順
+
+. [お気に入り]*をクリックします。
+. [Saved Criteria]*ダイアログボックスで、*[Configurations]*タブをクリックします。
+. [操作]*列の下にある削除アイコンXをクリックします。保存されたタグとその関連設定を削除するかどうかを確認するポップアップが表示されます。
+. タグとその関連設定を削除するには、*はい*をクリックします。
+. タグとその関連設定を保持するには、*いいえ*をクリックします。
+

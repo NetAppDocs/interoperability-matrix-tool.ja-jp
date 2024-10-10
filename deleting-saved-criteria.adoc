@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: deleting-saved-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: 保存した検索条件を削除できます。 
+---
+= 保存した条件の削除
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+保存した検索条件を削除できます。
+
+
+
+== タスクの内容
+
+保存した条件を削除するには、保存した条件の名前が必要です。
+
+
+
+== 手順
+
+. [操作]列の下にある削除アイコン* X *をクリックします。保存した条件を削除するかどうかを確認するポップアップが表示されます。
+. 保存した条件を削除するには、*はい*をクリックします。
+. 保存した条件を保持するには、* No *をクリックします。
+

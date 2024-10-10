@@ -1,0 +1,18 @@
+---
+sidebar: sidebar 
+permalink: building-end-to-end-compatibility.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, host, os 
+summary: Interoperability Matrix Toolを使用すると、製品間のエンドツーエンドの互換性ビューを構築できます。 
+---
+= 製品間でエンドツーエンドの互換性を構築
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Interoperability Matrix Toolを使用すると、製品間のエンドツーエンドの互換性ビューを構築できます。
+
+ワークフローを次に示します。
+
+image::pg17_imt.png[pg17 IMT]

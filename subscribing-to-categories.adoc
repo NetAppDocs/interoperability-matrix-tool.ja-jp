@@ -1,0 +1,38 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-categories.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: 選択した1つまたは複数のカテゴリにサブスクライブできます。 
+---
+= カテゴリのサブスクライブ
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+選択した1つまたは複数のカテゴリにサブスクライブできます。
+
+
+
+== タスクの内容
+
+コンポーネントがカテゴリに追加または削除されると、電子メール通知が送信されます。
+
+
+
+== 手順
+
+. ヘッダーメニューの* Subscription *リンクをクリックします。
+. サブスクリプションウィンドウで、*カテゴリ*タブを選択します。
+. 選択したカテゴリで、[追加または削除されたコンポーネント]オプションのチェックボックスをオンにします。
+. [頻度]フィールドで、*[即時]*または*[ダイジェスト]*を選択します。
++
+
+NOTE: デフォルトでは、*即時*が選択されています。
+
+. サブスクライブしたカテゴリのサブスクリプションを取得するには、*サブスクライブ*をクリックします。
+
+
+
+NOTE: [カテゴリ]タブのすべての選択を解除するには、*[リセット]*をクリックします。

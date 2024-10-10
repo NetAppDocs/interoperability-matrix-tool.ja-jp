@@ -1,0 +1,34 @@
+---
+sidebar: sidebar 
+permalink: using-row-compare.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Interoperability Matrix Toolでは、多くの行に非常によく似た情報が含まれているため、行の違いを手動で確認するのは面倒な作業になる可能性があります。 
+---
+= 行比較を使用
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Interoperability Matrix Toolでは、多くの行に非常によく似た情報が含まれているため、行の違いを手動で確認するのは面倒な作業になる可能性があります。Interoperability Matrix Toolには、2行を比較する機能が用意されています。
+
+
+
+== タスクの内容
+
+[Results]ページでは、各ソリューションに[Add to compare]ボタンまたは構成カードのヘッダーにアイコンが表示されます。
+
+
+
+== 手順
+
+. 比較する構成を追加するには、*[構成要素の比較]*アイコンをクリックします。比較する構成は最大2つまで選択できます。
+. 2つの行を比較するには、*設定コンポーネント比較*ボタンをクリックします。
+
+
+
+
+== 結果
+
+相違点は、オーバーレイ表示ボックスの*太字*フォントで強調表示されます。コンポーネントは、それぞれのコンポーネントタイプにグループ化されています。両方の行で同じコンポーネントは通常のフォントになります。2つのソリューション間で行を比較することはできません。

@@ -1,0 +1,18 @@
+---
+sidebar: sidebar 
+permalink: finding-compatible-host-os.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, host, os, matrix 
+summary: Interoperability Matrix Toolを使用して、お使いの製品と互換性がある、サポートされているホストオペレーティングシステムを確認できます。 
+---
+= 製品に対応する互換性のあるホストオペレーティングシステムを検索します
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Interoperability Matrix Toolを使用して、お使いの製品と互換性がある、サポートされているホストオペレーティングシステムを確認できます。
+
+ワークフローを次に示します。
+
+image::pg12_imt.png[pg12 IMT]

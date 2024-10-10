@@ -1,0 +1,21 @@
+---
+sidebar: sidebar 
+permalink: select-component-to-upgrade-or-downgrade.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: *Results*ページのWhat if機能を使用して、製品構成のコンポーネントをアップグレードまたはダウングレードできます。構成要素を変更して互換性を調べることができます。 
+---
+= アップグレードまたはダウングレードするコンポーネントを選択
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+製品構成のコンポーネントをアップグレードまたはダウングレードするには、*結果*ページの*仮定*機能を使用できます。構成要素を変更して互換性を調べることができます。
+
+.手順
+. [What If]*をクリックすると、アップグレードまたはダウングレードして選択した構成を変更できるコンポーネントが表示されます。
+. カテゴリをクリックすると、アップグレードまたはダウングレードに使用できるコンポーネントが表示されます。
+. 使用可能なオプションウィンドウで、特定のコンポーネントバージョンを検索して選択できます。
+. 選択したコンポーネントが有効な構成で、以前の構成と互換性がある場合は、互換性メッセージが表示されます。結果をエクスポートして、サポートされているすべての構成を表示できるようになりました。
+

@@ -1,0 +1,18 @@
+---
+sidebar: sidebar 
+permalink: finding-specific-config-and-checking-for-product-upgrade.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, windows, server 
+summary: 決定。 
+---
+= 特定の構成を検索し、製品のアップグレードまたはダウングレードのサポート状況を確認する
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Interoperability Matrix Toolを使用して特定の構成を表示し、製品構成のコンポーネントをアップグレードまたはダウングレードできます。
+
+ワークフローを次に示します。
+
+image::pg16_imt.png[アップグレードまたはダウングレードのための特定の設定を表示するワークフロー]

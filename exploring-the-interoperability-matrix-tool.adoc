@@ -1,0 +1,68 @@
+---
+sidebar: sidebar 
+permalink: exploring-the-interoperability-matrix-tool.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: Interoperability Matrix Tool（IMT）はWebベースのアプリケーションで、お使いのNetApp製品の互換性やサポートされる構成を検索できます。 
+---
+= Interoperability Matrix Toolを確認する
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Interoperability Matrix Tool（IMT）はWebベースのアプリケーションで、お使いのNetApp製品の互換性やサポートされる構成を検索できます。
+
+次のタスクを実行できます。
+
+[cols="25,75"]
+|===
+| 使用方法 | 実行できるタスク 
+
+
+| ホームページ | ONTAP SAN Host Simplified、Solution Search、List and Find *、および* Advanced Search *を使用して検索し、互換性を確認します。トレーニング*ビデオおよび* Active IQ相互運用性アドバイザ*への直接リンクを提供します。 
+
+
+| ONTAP SANホストを簡易化 | ONTAPバージョンとフラッシュ/ファブリックストレージバージョンの組み合わせの互換性を確認します。 
+
+
+| ソリューションの検索 | ソリューションを検索し、互換性を確認するための条件を追加します。 
+
+
+| リストと検索 | コンポーネントがさまざまな構成およびソリューション全体で使用されている場所を把握します。 
+
+
+| 高度な検索 | コンポーネントを検索し、互換性をチェックするための条件を追加します。 
+
+
+| サブスクリプション | 以前にサブスクライブしたストレージソリューション、カテゴリ、コンポーネント*の構成を表示します。 
+
+
+| 通知 | IMTの更新通知を表示します。 
+
+
+| 保存された検索 | 以前に保存した検索を開きます。 
+
+
+| 構成が見つかりません | IMTで検出できない構成をレポートする場合に使用します。 
+
+
+| ツールボックス | お客様、パートナー、または社内NetApp *従業員としての役割に応じて、ツールにアクセスできます。 
+
+
+| レポート | ソリューションの構成を* Complete Daily Exports *レポートを使用してエクスポートするか、* Component EOVS Summary *レポートを使用してサポート終了コンポーネントをエクスポートします。 
+
+
+| 設定 | お気に入り*リストおよび検索*カテゴリのリストを作成します。これらのカテゴリは、* List and Find *の* Component Explorer *の上部に表示されます。 
+
+
+| ヘルプ | IMTの最新リリースノートを表示するには、[新機能]*をクリックしてください。Interoperability Matrix Toolのヘルプセットを表示するには、*オンラインヘルプ*をクリックしてください。[トレーニング]*をクリックして、Interoperability Matrix Toolの使用方法を紹介するビデオを表示します。を参照してください https://www.youtube.com/playlist?list=PLdXI3bZJEw7moxyCCpO4p4G-73NN6q4RH["NetAppラーニングセンター"^]。Interoperability Matrix Toolに関する問題の報告やフィードバックを行うには、*[問題の報告]*リンクをクリックしてください。IMTに関するよくある質問と回答を表示するには、*[FAQ]*をクリックしてください。可能な場合は、*[データイニシアチブ]*をクリックして、IMTデータベースの計画されたクリーンアップを表示します。バージョンと著作権に関する声明を表示するには、* IMTについて*をクリックしてください。製品で報告されたエラーと未解決のエラーを表示するには、*[既知の問題]*をクリックします。 
+
+
+| ツアーに参加する | IMTを巡るガイドツアーをご覧ください。 
+
+
+| <Your name> | IMTの*ログアウト*をクリックします。 
+|===
+
+NOTE: ウィンドウのサイズを変更すると、すべてのページが応答するようになります。
