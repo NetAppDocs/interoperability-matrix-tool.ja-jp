@@ -116,7 +116,6 @@
   <block id="40a7332ba168806ae7541e3b0d032443" category="cell">&lt;Your name&gt;</block>
   <block id="3546181752f7fdc0791222b6f6046888" category="cell">IMTの*ログアウト*をクリックします。</block>
   <block id="2500925cc553d5478036c23a243f8242" category="admonition">ウィンドウのサイズを変更すると、すべてのページが応答するようになります。</block>
-  <block id="f3cc6d813c2827f8ce715f9a5062edea" category="summary">エクスポート機能を使用して、*結果*ページから構成結果をエクスポートできます。</block>
   <block id="4d69b4cfaa8dc0d672ee2750a68eb35a" category="doc">構成結果のエクスポート</block>
   <block id="edd2e0e3ba53de74b00fda66d6e0cd30" category="paragraph">*エクスポート*機能を使用して、*結果*ページから構成結果をエクスポートできます。設定結果のエクスポートには、ストレージソリューションの詳細、検索条件、設定の詳細、および特定のアラートや追加情報が含まれます。構成結果をExcelスプレッドシートまたはPDFにエクスポートできます。</block>
   <block id="4d3d15b0efce04bf2169f229735b7e5e" category="paragraph">構成結果を含むExcelシートのファイル名形式はです<block ref="985f9eebd8d56495a0d7e06fd8095217" prefix=" " category="inline-code"></block>。</block>
@@ -178,7 +177,6 @@
   <block id="7d88aef12769e53ffd597ccbc028b3c9" category="list-text"><block ref="75f8e16df20a05b225d51263c0872f38" category="inline-link-rx"></block>–テクニカルレポートとナレッジベースの記事「IMT」を検索することを検討してください。</block>
   <block id="dd490b81914dd945601e442a41cb4222" category="inline-link">NetAppコミュニティ</block>
   <block id="911f726ab6a13b9b83840ef0fa3bc02c" category="list-text"><block ref="03b9a261ab4d9f68701f67f952808855" category="inline-link-rx"></block>–NetApp製品とソリューションのフォーラム「IMT」を検索することを検討してください。</block>
-  <block id="5b016255af60a025de6e765b432b0ddf" category="summary">* What If *では、サポートされている可能性のあるすべての構成を調べることができます。</block>
   <block id="a36cadb76d6293d933642bf23af7ee14" category="doc">What Ifの使用方法</block>
   <block id="2d02847e890a1e20bfe66285fc0e7a2e" category="paragraph">* What If *では、サポートされている可能性のあるすべての構成を調べることができます。What If *機能を使用して、選択した構成のコンポーネントをアップグレードまたはダウングレードし、互換性を調べることができます。コンポーネントのアップグレードまたはダウングレード後にサポートされているすべての構成を表示するには、*エクスポート*オプションを使用して構成の詳細をExcelワークシートまたはPDFにエクスポートできます。</block>
   <block id="6dd39fde28115596491353a74238c3eb" category="paragraph">* What If *ウィンドウでアップグレードまたはダウングレードする特定のコンポーネントを選択すると、選択したコンポーネントが構成内の他のコンポーネントと互換性があるかどうか、または一致する構成がないかどうかを確認できます。一致する構成がない場合は、初期条件を拡張して構成を増やすことを検討する必要があります。</block>
@@ -250,7 +248,6 @@
   <block id="06d26363632e23515632763b195365bf" category="inline-link">トレーニングビデオ</block>
   <block id="a73a5f329094de39386ea09d01d1ddfc" category="inline-link">Active IQアドバイザー</block>
   <block id="fb29be4696f2fe6f4f627f98a34a2f1b" category="paragraph">のホームページでは、を視聴したり開いたりする<block ref="78271e392417a9b42ec24b305b4c350a" category="inline-link-rx"></block>こともできます<block ref="ec04b3a82336da62b4db4326887e8bbd" category="inline-link-rx"></block>。</block>
-  <block id="cf1c4646242def1428c155c9317d29a1" category="summary">Interoperability Matrix Toolでは、*[Refine Search Criteria]*ページから、製品と互換性がある構成を確認できます。</block>
   <block id="784e74992af3834f944fb515f4448bba" category="doc">[Refine Search Criteria]ページで互換性を確認します。</block>
   <block id="1587d4268b25a2b9335f44610033db17" category="paragraph">Interoperability Matrix Toolでは、*[Refine Search Criteria]*ページから、製品と互換性がある構成を確認できます。このページの構成結果を製品に適した構成に絞り込むことができます。</block>
   <block id="e657f68f47b6f46ab9d94df9ae5adb88" category="paragraph">入力した条件にサポートされている構成がある場合にのみ、最初の検索条件ページから*検索条件の絞り込み*ページに移動できます。[Refine Search Criteria]ページは、次の2つのペインに分かれています。</block>
@@ -326,7 +323,6 @@
   <block id="c9cb70ada3079e89b71a014047a8c2da" category="list-text">[ 保存（ Save ） ] をクリックします。条件を保存すると、*条件の保存*リンクが*条件の更新*に変わります。最大10個の検索条件を保存できます。</block>
   <block id="1c2330855bcf8dd1b692d50681ea4805" category="paragraph">[検索の保存]*をクリックすると、*[検索条件の保存]*ポップアップが表示されます。[最近の検索]タブには、最近の検索結果が表示されます。</block>
   <block id="d449eb38510b44904f1a170873f49309" category="paragraph">最近保存された各検索は、タイムスタンプによって一意に識別されます。タイムスタンプをクリックすると、*検索条件の絞り込み*ページが表示されます。</block>
-  <block id="888b783c8de25fa8c73e802cc44e1eae" category="summary">*Results*ページのWhat if機能を使用して、製品構成のコンポーネントをアップグレードまたはダウングレードできます。構成要素を変更して互換性を調べることができます。</block>
   <block id="d9e123d5d66e7b9d2184c4852d600235" category="doc">アップグレードまたはダウングレードするコンポーネントを選択</block>
   <block id="50f0605b66fe680311cdaf91c21b5c2c" category="paragraph">製品構成のコンポーネントをアップグレードまたはダウングレードするには、*結果*ページの*仮定*機能を使用できます。構成要素を変更して互換性を調べることができます。</block>
   <block id="4fc43e1250ee0fbf204db6bdc5a80acf" category="list-text">[What If]*をクリックすると、アップグレードまたはダウングレードして選択した構成を変更できるコンポーネントが表示されます。</block>
@@ -521,7 +517,6 @@
   <block id="f5903f4247c226fe311fe85039ee08b1" category="list-text">[保存済み検索]*をクリックします。</block>
   <block id="5e78b03368007e0be6e2f7b2e64bc287" category="list-text">最近保存した検索を表示するには、*[最近の検索]*タブを選択します。最近の検索結果が表示されます。</block>
   <block id="1f70cd49a7cc95ade94bc142d2f26097" category="list-text">保存されている特定の検索条件を表示するには、*検索条件*タブを選択します。保存した条件が表示されます。</block>
-  <block id="e9c7f082c18ebfe8f5e5964edf7ec988" category="summary">[詳細検索（Advanced Search）]*を使用してさまざまな構成要素を検索し、検索条件から構成要素を追加または削除できます。</block>
   <block id="fa8f8ea5e084a3d02f08c39c744b591d" category="doc">高度な検索の操作</block>
   <block id="81063a953934d8cb5ee6f81fe405c8b1" category="paragraph">[詳細検索（Advanced Search）]*を使用してさまざまな構成要素を検索し、検索条件から構成要素を追加または削除できます。*詳細検索*ウィンドウ内の検索テキストボックスを使用して、コンポーネントを検索できます。</block>
   <block id="6756f030171d226f3144040663767c49" category="paragraph">必要に応じて、次のフィルタを使用できます。</block>
@@ -605,4 +600,11 @@
   <block id="cbb5df1a2f14206cda92df2eee9ad768" category="sidebar">共通検索の実行</block>
   <block id="1f2912ea316c2e90ba1fb996bce7c786" category="sidebar">保存された検索機能</block>
   <block id="c9db0e0f049034dde7c772dfb13bbb54" category="sidebar">Can Not Find Configを使用</block>
+  <block id="e2585c3f38551dcb44861bc8f2483a6c" category="summary">エクスポート機能を使用して、結果ページから構成結果をエクスポートできます。</block>
+  <block id="7f9fe1dfd084891a277ce5fe84abf5e4" category="summary">What Ifでは、サポートされる可能性のあるすべての構成を確認できます。</block>
+  <block id="1cdb0206d28a4fbf2bdfded91815cba2" category="summary">Interoperability Matrix Toolでは、[Refine Search Criteria]ページから、製品と互換性のある構成を確認できます。</block>
+  <block id="8be207b454cca2428f17b89b2413b5f2" category="summary">[保存済み検索（Saved Search）]メニューを使用して、さまざまなソリューションまたは構成をロードできます。このメニューを使用すると、以前に保存した検索結果、最近の検索結果、および保存した構成に移動できます。</block>
+  <block id="93e759c00f4904973cb28148a9620b79" category="summary">結果ページのWhat if機能を使用して、製品構成のコンポーネントをアップグレードまたはダウングレードできます。構成要素を変更して互換性を調べることができます。</block>
+  <block id="7380129768771772e2da1bd4cb1ca40e" category="summary">[ツールボックス]タブには、3つのユーザーカテゴリに分類された便利なツールのリストが表示されます。各ツールのリンクが表示されます。</block>
+  <block id="60ffbb3dc985d9f915426091ca716097" category="summary">[拡張検索（Advanced Search）]を使用してさまざまな構成要素を検索し、検索条件から構成要素を追加または削除できます。</block>
 </blocks>

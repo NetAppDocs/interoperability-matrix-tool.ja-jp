@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: working-with-advanced-search.html 
 keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, advanced, search 
-summary: '[詳細検索（Advanced Search）]*を使用してさまざまな構成要素を検索し、検索条件から構成要素を追加または削除できます。' 
+summary: '[拡張検索（Advanced Search）]を使用してさまざまな構成要素を検索し、検索条件から構成要素を追加または削除できます。' 
 ---
 = 高度な検索の操作
 :allow-uri-read: 

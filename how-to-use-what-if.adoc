@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: how-to-use-what-if.html 
-keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
-summary: * What If *では、サポートされている可能性のあるすべての構成を調べることができます。 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
+summary: What Ifでは、サポートされる可能性のあるすべての構成を確認できます。 
 ---
 = What Ifの使用方法
 :allow-uri-read: 
